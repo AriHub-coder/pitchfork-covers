@@ -2,19 +2,23 @@
  * Pitchfork Selects — cover archive fetcher
  * Runs weekly (GitHub Actions). Zero dependencies, Node 20+.
  *
- * 1. Fetches the public Apple Music playlist page
- * 2. Extracts every track's album + artwork from the embedded JSON
- * 3. Diffs against data/albums.json — new albums get tagged with the ISO week
+ * 1. Fetches the full playlist via Apple's catalog API (paginated — the
+ *    HTML page only embeds a portion of long playlists), using the same
+ *    anonymous token Apple's own web player uses.
+ * 2. Falls back to parsing the page's embedded JSON if the API path breaks.
+ * 3. Diffs against data/albums.json — new albums get tagged with the ISO week.
  * 4. Optionally enriches design / art-direction credits via the Discogs API
- *    (set DISCOGS_TOKEN as a repo secret; skipped silently if absent)
+ *    (set DISCOGS_TOKEN as a repo secret; skipped silently if absent).
  */
 
-const PLAYLIST_URL =
-  "https://music.apple.com/us/playlist/pitchfork-selects/pl.9107845577c24fe3be7193c55d7864b0";
+const PLAYLIST_ID = "pl.9107845577c24fe3be7193c55d7864b0";
+const PLAYLIST_URL = `https://music.apple.com/us/playlist/pitchfork-selects/${PLAYLIST_ID}`;
 const DATA_PATH = new URL("../data/albums.json", import.meta.url);
 const ARTWORK_SIZE = 2000; // px — mzstatic serves any size via the URL template
 const CREDIT_RETRY_DAYS = 60; // keep retrying Discogs for young albums missing credits
 const DISCOGS_TOKEN = process.env.DISCOGS_TOKEN || "";
+const UA =
+  "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36";
 
 import { readFile, writeFile } from "node:fs/promises";
 
@@ -49,75 +53,139 @@ const artworkFromTemplate = (tpl, size = ARTWORK_SIZE) =>
     .replace("{c}", "bb")
     .replace("{f}", "jpg");
 
-/* ---------- 1. fetch + parse the playlist page ---------- */
+function addTrack(map, { artist, album, track, artUrl, appleUrl, releaseDate }) {
+  if (!artist || !artUrl || !artUrl.includes("{w}")) return;
+  const key = albumKey(artist, album || track || artUrl);
+  if (!map.has(key)) {
+    map.set(key, {
+      key,
+      artist,
+      album: album || track || "",
+      cover: artworkFromTemplate(artUrl),
+      coverTemplate: artUrl,
+      appleUrl: appleUrl || null,
+      releaseDate: releaseDate || null,
+      tracks: [],
+    });
+  }
+  const entry = map.get(key);
+  if (track && !entry.tracks.includes(track)) entry.tracks.push(track);
+}
 
-async function fetchPlaylistAlbums() {
-  const res = await fetch(PLAYLIST_URL, {
-    headers: {
-      "user-agent":
-        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36",
-      "accept-language": "en-US,en;q=0.9",
-    },
+/* ---------- 1a. full playlist via Apple's catalog API ---------- */
+
+async function getAnonymousToken() {
+  const page = await fetch(PLAYLIST_URL, {
+    headers: { "user-agent": UA, "accept-language": "en-US,en;q=0.9" },
   });
-  if (!res.ok) throw new Error(`Playlist page returned HTTP ${res.status}`);
-  const html = await res.text();
+  if (!page.ok) throw new Error(`Playlist page returned HTTP ${page.status}`);
+  const html = await page.text();
 
-  const blobs = [];
+  // The web player's JS bundle contains the anonymous bearer token (a JWT).
+  const bundlePaths = [...html.matchAll(/(?:src|href)="(\/assets\/[^"]+\.js)"/g)].map(
+    (m) => m[1]
+  );
+  for (const path of bundlePaths) {
+    const js = await fetch(`https://music.apple.com${path}`, {
+      headers: { "user-agent": UA },
+    });
+    if (!js.ok) continue;
+    const body = await js.text();
+    const jwt = body.match(/eyJh[A-Za-z0-9_-]{10,}\.[A-Za-z0-9_-]{10,}\.[A-Za-z0-9_-]{10,}/);
+    if (jwt) return { token: jwt[0], html };
+  }
+  return { token: null, html };
+}
+
+async function fetchViaApi(token) {
+  const found = new Map();
+  let path = `/v1/catalog/us/playlists/${PLAYLIST_ID}/tracks?limit=100`;
+  let pages = 0;
+  while (path && pages < 30) {
+    const res = await fetch(`https://amp-api.music.apple.com${path}`, {
+      headers: {
+        authorization: `Bearer ${token}`,
+        origin: "https://music.apple.com",
+        "user-agent": UA,
+      },
+    });
+    if (!res.ok) throw new Error(`Catalog API returned HTTP ${res.status}`);
+    const json = await res.json();
+    for (const item of json.data || []) {
+      const a = item.attributes || {};
+      addTrack(found, {
+        artist: a.artistName,
+        album: a.albumName,
+        track: a.name,
+        artUrl: a.artwork?.url,
+        appleUrl: a.url,
+        releaseDate: a.releaseDate,
+      });
+    }
+    path = json.next ? `${json.next}${json.next.includes("?") ? "&" : "?"}limit=100` : null;
+    pages++;
+    await sleep(300);
+  }
+  return found;
+}
+
+/* ---------- 1b. fallback: embedded page JSON ---------- */
+
+function parseEmbedded(html) {
+  const found = new Map();
   const scriptRe =
     /<script[^>]*type="(?:application\/json|application\/ld\+json)"[^>]*>([\s\S]*?)<\/script>/g;
+  const blobs = [];
   for (const m of html.matchAll(scriptRe)) {
     try {
       blobs.push(JSON.parse(m[1]));
     } catch {
-      /* non-JSON script body — ignore */
+      /* ignore */
     }
   }
-  if (!blobs.length) {
-    throw new Error(
-      "No embedded JSON found — Apple may have changed the page structure. Parser needs an update."
-    );
-  }
-
-  // Recursively collect anything that looks like a track: has artistName + artwork template.
-  const found = new Map();
   const visit = (node) => {
     if (!node || typeof node !== "object") return;
     if (Array.isArray(node)) return node.forEach(visit);
-
     const a = node.attributes || node;
-    const artist = a.artistName;
-    const artUrl = a.artwork?.url || a.artwork?.dictionary?.url;
-    if (typeof artist === "string" && typeof artUrl === "string" && artUrl.includes("{w}")) {
-      const album = a.albumName || a.collectionName || a.name || "";
-      const track = a.albumName ? a.name : "";
-      const key = albumKey(artist, album || track || artUrl);
-      if (!found.has(key)) {
-        found.set(key, {
-          key,
-          artist,
-          album: album || track,
-          cover: artworkFromTemplate(artUrl),
-          coverTemplate: artUrl,
-          appleUrl: a.url || node.href || null,
-          releaseDate: a.releaseDate || null,
-          tracks: [],
-        });
-      }
-      if (track) {
-        const entry = found.get(key);
-        if (!entry.tracks.includes(track)) entry.tracks.push(track);
-      }
-    }
+    addTrack(found, {
+      artist: a.artistName,
+      album: a.albumName || a.collectionName,
+      track: a.albumName ? a.name : "",
+      artUrl: a.artwork?.url || a.artwork?.dictionary?.url,
+      appleUrl: a.url || node.href,
+      releaseDate: a.releaseDate,
+    });
     for (const v of Object.values(node)) visit(v);
   };
   blobs.forEach(visit);
+  return found;
+}
 
-  if (!found.size) {
+async function fetchPlaylistAlbums() {
+  const { token, html } = await getAnonymousToken();
+  if (token) {
+    try {
+      const viaApi = await fetchViaApi(token);
+      if (viaApi.size) {
+        console.log(`Catalog API: full playlist fetched (${viaApi.size} unique albums).`);
+        return [...viaApi.values()];
+      }
+    } catch (e) {
+      console.warn(`Catalog API failed (${e.message}) — falling back to page parse.`);
+    }
+  } else {
+    console.warn("No anonymous token found in page bundles — falling back to page parse.");
+  }
+  const viaPage = parseEmbedded(html);
+  if (!viaPage.size) {
     throw new Error(
-      "Embedded JSON parsed but no tracks recognized — schema likely changed. Parser needs an update."
+      "Both the catalog API and the embedded page JSON failed — Apple likely changed something. Parser needs an update."
     );
   }
-  return [...found.values()];
+  console.log(
+    `Page parse: ${viaPage.size} unique albums (note: the page may embed only part of long playlists).`
+  );
+  return [...viaPage.values()];
 }
 
 /* ---------- 2. Discogs credit enrichment (optional) ---------- */
@@ -191,8 +259,8 @@ try {
 }
 
 const byKey = new Map(store.albums.map((a) => [a.key, a]));
-const live = await fetchPlaylistAlbums();
-console.log(`Playlist page parsed: ${live.length} unique albums currently listed.`);
+// Albums arrive in playlist order — record each album's position (first occurrence)
+const live = (await fetchPlaylistAlbums()).map((a, i) => ({ ...a, playlistIndex: i }));
 
 let added = 0;
 for (const album of live) {
@@ -200,6 +268,7 @@ for (const album of live) {
   if (existing) {
     existing.inPlaylist = true;
     existing.lastSeen = now.toISOString().slice(0, 10);
+    existing.playlistIndex = album.playlistIndex;
     existing.tracks = [...new Set([...(existing.tracks || []), ...album.tracks])];
   } else {
     byKey.set(album.key, {
@@ -245,9 +314,12 @@ if (DISCOGS_TOKEN) {
   console.log("DISCOGS_TOKEN not set — skipping credit enrichment.");
 }
 
-/* Sort newest week first, then by artist within a week */
+/* Sort newest week first, then by playlist position within a week */
 const albums = [...byKey.values()].sort(
-  (x, y) => y.weekAdded.localeCompare(x.weekAdded) || x.artist.localeCompare(y.artist)
+  (x, y) =>
+    y.weekAdded.localeCompare(x.weekAdded) ||
+    (x.playlistIndex ?? 1e9) - (y.playlistIndex ?? 1e9) ||
+    x.artist.localeCompare(y.artist)
 );
 
 store = {
