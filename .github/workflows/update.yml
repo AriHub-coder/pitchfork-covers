@@ -1,0 +1,37 @@
+name: Weekly cover archive update
+
+on:
+  schedule:
+    # Every Monday 12:30 UTC — a few hours after Pitchfork's Monday refresh
+    - cron: "30 12 * * 1"
+  workflow_dispatch: {} # run manually anytime (use this once to seed the archive)
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Fetch playlist and update archive
+        env:
+          DISCOGS_TOKEN: ${{ secrets.DISCOGS_TOKEN }}
+        run: node scripts/fetch.mjs
+
+      - name: Commit changes
+        run: |
+          git config user.name "cover-archive-bot"
+          git config user.email "actions@github.com"
+          git add data/albums.json
+          if git diff --cached --quiet; then
+            echo "No changes this week."
+          else
+            git commit -m "Archive update: $(date -u +%Y-%m-%d)"
+            git push
+          fi
