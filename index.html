@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pitchfork Selects — Cover Archive</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..800&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0a0a0b; --ink:#e8e8e4; --dim:#6b6b6e; --line:#1e1e20;
+    --signal:#59e3f0;
+    --mono:"IBM Plex Mono",ui-monospace,monospace;
+    --display:"Archivo",system-ui,sans-serif;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  html,body{height:100%}
+  body{
+    background:var(--bg); color:var(--ink); font-family:var(--mono);
+    font-size:12px; letter-spacing:.02em; overflow:hidden;
+    -webkit-font-smoothing:antialiased;
+  }
+  button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
+  button:focus-visible,a:focus-visible{outline:1px solid var(--signal);outline-offset:3px}
+
+  /* ---------- ambient light spill (signature) ---------- */
+  .glow{
+    position:fixed; inset:-20%; z-index:0; pointer-events:none;
+    background-size:cover; background-position:center;
+    filter:blur(90px) saturate(1.6) brightness(.75);
+    opacity:0; transition:opacity 1.2s ease, background-image .1s;
+  }
+  .glow.on{opacity:.32}
+  .vignette{
+    position:fixed; inset:0; z-index:1; pointer-events:none;
+    background:radial-gradient(ellipse at center, transparent 30%, rgba(10,10,11,.82) 100%);
+  }
+
+  /* ---------- chrome ---------- */
+  header{
+    position:fixed; top:0; left:0; right:0; z-index:6;
+    display:flex; justify-content:space-between; align-items:center;
+    padding:20px 28px; text-transform:uppercase;
+  }
+  header .brand{color:var(--dim)}
+  header .brand strong{color:var(--ink);font-weight:500}
+  header .right{display:flex;gap:28px;align-items:center;color:var(--dim)}
+  .archive-btn{letter-spacing:.14em;text-transform:uppercase;padding:6px 0;border-bottom:1px solid transparent}
+  .archive-btn:hover{color:var(--ink);border-bottom-color:var(--signal)}
+
+  /* ---------- stage ---------- */
+  .stage{
+    position:fixed; inset:0; z-index:2;
+    display:flex; align-items:center; justify-content:center;
+  }
+  .frame{position:relative; line-height:0}
+  .frame img{
+    display:block;
+    max-width:min(78vw,58vh); max-height:58vh;
+    width:auto; height:auto;
+    box-shadow:0 30px 80px rgba(0,0,0,.6);
+    opacity:0; transform:scale(.985);
+    transition:opacity .45s ease, transform .45s ease;
+  }
+  .frame img.on{opacity:1;transform:scale(1)}
+
+  /* ---------- arrows ---------- */
+  .nav{
+    position:fixed; top:0; bottom:0; z-index:5; width:18vw; min-width:80px;
+    display:flex; align-items:center; color:var(--dim);
+    font-family:var(--mono); font-size:20px;
+    opacity:.55; transition:opacity .2s, color .2s;
+  }
+  .nav:hover{opacity:1;color:var(--ink)}
+  .nav.prev{left:0; justify-content:flex-start; padding-left:28px}
+  .nav.next{right:0; justify-content:flex-end; padding-right:28px}
+
+  /* ---------- registrar data ---------- */
+  .data{
+    position:fixed; left:28px; bottom:28px; z-index:6; max-width:min(72vw,520px);
+  }
+  .data .eyebrow{
+    color:var(--dim); text-transform:uppercase; letter-spacing:.14em;
+    display:flex; gap:16px; margin-bottom:10px;
+  }
+  .data .eyebrow .idx{color:var(--ink)}
+  .data h1{
+    font-family:var(--display);
+    font-variation-settings:"wdth" 115, "wght" 700;
+    font-size:clamp(22px,3.4vw,40px); line-height:1.02;
+    text-transform:uppercase; letter-spacing:.01em; margin-bottom:6px;
+  }
+  .data .album{color:var(--ink); font-size:13px; margin-bottom:14px}
+  .data .album .yr{color:var(--dim)}
+  .credits{border-top:1px solid var(--line); padding-top:10px; display:grid; gap:4px}
+  .credits .row{display:grid; grid-template-columns:120px 1fr; gap:12px}
+  .credits .role{color:var(--dim); text-transform:uppercase; letter-spacing:.1em; font-size:10px; padding-top:1px}
+  .credits .name{color:var(--signal)}
+  .credits .pending{color:var(--dim); font-size:11px}
+  .credits a{color:var(--dim);text-decoration:none;font-size:10px;letter-spacing:.1em;text-transform:uppercase}
+  .credits a:hover{color:var(--ink)}
+
+  /* ---------- archive overlay ---------- */
+  .overlay{
+    position:fixed; inset:0; z-index:10; background:rgba(10,10,11,.96);
+    overflow-y:auto; padding:84px 28px 60px;
+    opacity:0; visibility:hidden; transition:opacity .3s;
+  }
+  .overlay.open{opacity:1; visibility:visible}
+  .overlay .close{
+    position:fixed; top:20px; right:28px; text-transform:uppercase;
+    letter-spacing:.14em; color:var(--dim); padding:6px 0
+  }
+  .overlay .close:hover{color:var(--ink)}
+  .week{margin-bottom:44px}
+  .week h2{
+    font-size:11px; color:var(--dim); text-transform:uppercase; letter-spacing:.14em;
+    border-bottom:1px solid var(--line); padding-bottom:8px; margin-bottom:16px;
+    display:flex; justify-content:space-between; font-weight:400;
+  }
+  .grid{display:grid; grid-template-columns:repeat(auto-fill,minmax(110px,1fr)); gap:14px}
+  .grid button{text-align:left}
+  .grid img{width:100%; aspect-ratio:1; object-fit:cover; display:block; filter:grayscale(.15)}
+  .grid button:hover img{filter:none; outline:1px solid var(--signal); outline-offset:2px}
+  .grid .cap{margin-top:6px; font-size:10px; color:var(--dim); line-height:1.4;
+    white-space:nowrap; overflow:hidden; text-overflow:ellipsis}
+  .grid button:hover .cap{color:var(--ink)}
+
+  /* ---------- empty state ---------- */
+  .empty{position:fixed; inset:0; z-index:4; display:none; align-items:center; justify-content:center; text-align:center; padding:24px}
+  .empty.on{display:flex}
+  .empty .box{max-width:420px; color:var(--dim); line-height:1.8}
+  .empty .box strong{color:var(--ink); font-weight:500}
+
+  @media (max-width:640px){
+    header{padding:16px}
+    .data{left:16px; right:16px; bottom:20px; max-width:none}
+    .credits .row{grid-template-columns:96px 1fr}
+    .frame img{max-width:86vw; max-height:46vh}
+    .nav{width:15vw; min-width:56px}
+    .nav.prev{padding-left:14px}.nav.next{padding-right:14px}
+    .overlay{padding:72px 16px 40px}
+  }
+  @media (prefers-reduced-motion:reduce){
+    *{transition:none !important}
+  }
+</style>
+</head>
+<body>
+
+<div class="glow" id="glow"></div>
+<div class="vignette"></div>
+
+<header>
+  <div class="brand"><strong>Pitchfork Selects</strong> — Cover Archive</div>
+  <div class="right">
+    <span id="count"></span>
+    <button class="archive-btn" id="openArchive" aria-haspopup="dialog">Archive</button>
+  </div>
+</header>
+
+<button class="nav prev" id="prev" aria-label="Previous cover">&larr;</button>
+<button class="nav next" id="next" aria-label="Next cover">&rarr;</button>
+
+<main class="stage" aria-live="polite">
+  <div class="frame"><img id="cover" alt=""></div>
+</main>
+
+<section class="data" id="data" hidden>
+  <div class="eyebrow"><span class="idx" id="idx"></span><span id="week"></span></div>
+  <h1 id="artist"></h1>
+  <div class="album"><span id="album"></span> <span class="yr" id="meta"></span></div>
+  <div class="credits" id="credits"></div>
+</section>
+
+<div class="empty" id="empty">
+  <div class="box">
+    <p><strong>The archive is empty.</strong></p>
+    <p>Run the "Weekly cover archive update" workflow once from the repository's Actions tab to seed it. After that, it updates itself every Monday.</p>
+  </div>
+</div>
+
+<div class="overlay" id="overlay" role="dialog" aria-label="Archive by week">
+  <button class="close" id="closeArchive">Close</button>
+  <div id="weeks"></div>
+</div>
+
+<script>
+(async () => {
+  const $ = (id) => document.getElementById(id);
+  let albums = [], i = 0;
+
+  try {
+    const res = await fetch("data/albums.json", { cache: "no-store" });
+    const store = await res.json();
+    albums = store.albums || [];
+  } catch { /* fall through to empty state */ }
+
+  if (!albums.length) { $("empty").classList.add("on"); return; }
+
+  $("count").textContent = albums.length + " covers";
+  $("data").hidden = false;
+
+  const roleLabels = {
+    design: "Design",
+    artDirection: "Art Direction",
+    photography: "Photography",
+    illustration: "Illustration",
+  };
+
+  function render() {
+    const a = albums[i];
+    const img = $("cover");
+    img.classList.remove("on");
+    const next = new Image();
+    next.onload = () => {
+      img.src = next.src;
+      img.alt = a.artist + " — " + a.album + " album cover";
+      requestAnimationFrame(() => img.classList.add("on"));
+      const g = $("glow");
+      g.style.backgroundImage = `url("${next.src}")`;
+      g.classList.add("on");
+    };
+    next.src = a.cover;
+
+    $("idx").textContent = String(i + 1).padStart(3, "0") + " / " + albums.length;
+    $("week").textContent = "Week " + a.weekAdded;
+    $("artist").textContent = a.artist;
+    $("album").textContent = a.album;
+    $("meta").textContent = [a.year, a.label].filter(Boolean).join(" · ");
+
+    const c = $("credits");
+    c.innerHTML = "";
+    if (a.credits) {
+      for (const [role, names] of Object.entries(a.credits)) {
+        const row = document.createElement("div");
+        row.className = "row";
+        row.innerHTML =
+          `<span class="role">${roleLabels[role] || role}</span>` +
+          `<span class="name">${names.join(", ")}</span>`;
+        c.appendChild(row);
+      }
+      if (a.discogsUrl) {
+        const src = document.createElement("a");
+        src.href = a.discogsUrl; src.target = "_blank"; src.rel = "noopener";
+        src.textContent = "Source: Discogs";
+        c.appendChild(src);
+      }
+    } else {
+      c.innerHTML = `<span class="pending">Cover credits not yet documented</span>`;
+    }
+
+    history.replaceState(null, "", "#" + (i + 1));
+    // Preload neighbors
+    [i - 1, i + 1].forEach((n) => {
+      if (albums[n]) new Image().src = albums[n].cover;
+    });
+  }
+
+  const go = (d) => { i = (i + d + albums.length) % albums.length; render(); };
+
+  $("prev").addEventListener("click", () => go(-1));
+  $("next").addEventListener("click", () => go(1));
+  addEventListener("keydown", (e) => {
+    if ($("overlay").classList.contains("open")) {
+      if (e.key === "Escape") toggleArchive(false);
+      return;
+    }
+    if (e.key === "ArrowLeft") go(-1);
+    if (e.key === "ArrowRight") go(1);
+  });
+
+  // Touch swipe
+  let x0 = null;
+  addEventListener("touchstart", (e) => (x0 = e.touches[0].clientX), { passive: true });
+  addEventListener("touchend", (e) => {
+    if (x0 === null) return;
+    const dx = e.changedTouches[0].clientX - x0;
+    if (Math.abs(dx) > 50) go(dx < 0 ? 1 : -1);
+    x0 = null;
+  }, { passive: true });
+
+  // Archive overlay, grouped by week
+  function buildArchive() {
+    const weeks = {};
+    albums.forEach((a, n) => (weeks[a.weekAdded] = weeks[a.weekAdded] || []).push(n));
+    const wrap = $("weeks");
+    wrap.innerHTML = "";
+    for (const wk of Object.keys(weeks)) {
+      const sec = document.createElement("section");
+      sec.className = "week";
+      sec.innerHTML = `<h2><span>Week ${wk}</span><span>${weeks[wk].length} covers</span></h2>`;
+      const grid = document.createElement("div");
+      grid.className = "grid";
+      for (const n of weeks[wk]) {
+        const a = albums[n];
+        const b = document.createElement("button");
+        b.innerHTML =
+          `<img loading="lazy" src="${a.coverTemplate ? a.coverTemplate.replace("{w}","300").replace("{h}","300").replace("{c}","bb").replace("{f}","jpg") : a.cover}" alt="">` +
+          `<div class="cap">${a.artist}</div>`;
+        b.addEventListener("click", () => { i = n; render(); toggleArchive(false); });
+        grid.appendChild(b);
+      }
+      sec.appendChild(grid);
+      wrap.appendChild(sec);
+    }
+  }
+
+  function toggleArchive(open) {
+    $("overlay").classList.toggle("open", open);
+    if (open) buildArchive();
+  }
+  $("openArchive").addEventListener("click", () => toggleArchive(true));
+  $("closeArchive").addEventListener("click", () => toggleArchive(false));
+
+  // Deep link (#n)
+  const h = parseInt(location.hash.slice(1), 10);
+  if (h >= 1 && h <= albums.length) i = h - 1;
+  render();
+})();
+</script>
+</body>
+</html>
