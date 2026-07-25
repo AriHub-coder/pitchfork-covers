@@ -2,9 +2,8 @@ name: Weekly cover archive update
 
 on:
   schedule:
-    # Every Monday 12:30 UTC — a few hours after Pitchfork's Monday refresh
     - cron: "30 12 * * 1"
-  workflow_dispatch: {} # run manually anytime (use this once to seed the archive)
+  workflow_dispatch: {}
 
 permissions:
   contents: write
@@ -17,7 +16,7 @@ jobs:
 
       - uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 24
 
       - name: Fetch playlist and update archive
         env:
@@ -33,5 +32,6 @@ jobs:
             echo "No changes this week."
           else
             git commit -m "Archive update: $(date -u +%Y-%m-%d)"
+            git pull --rebase origin main
             git push
           fi
