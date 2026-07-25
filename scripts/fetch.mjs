@@ -74,6 +74,8 @@ function addTrack(map, { artist, album, track, artUrl, appleUrl, releaseDate }) 
 
 /* ---------- 1a. full playlist via Apple's catalog API ---------- */
 
+const JWT_RE = /eyJh[A-Za-z0-9_-]{10,}\.[A-Za-z0-9_-]{10,}\.[A-Za-z0-9_-]{10,}/;
+
 async function getAnonymousToken() {
   const page = await fetch(PLAYLIST_URL, {
     headers: { "user-agent": UA, "accept-language": "en-US,en;q=0.9" },
@@ -81,18 +83,42 @@ async function getAnonymousToken() {
   if (!page.ok) throw new Error(`Playlist page returned HTTP ${page.status}`);
   const html = await page.text();
 
-  // The web player's JS bundle contains the anonymous bearer token (a JWT).
-  const bundlePaths = [...html.matchAll(/(?:src|href)="(\/assets\/[^"]+\.js)"/g)].map(
-    (m) => m[1]
+  // 0. Sometimes the token sits inline in the HTML itself.
+  const inline = html.match(JWT_RE);
+  if (inline) {
+    console.log("Token found inline in the page HTML.");
+    return { token: inline[0], html };
+  }
+
+  // 1. Collect every JS URL referenced by the page — script src, link href,
+  //    modulepreload, absolute or relative, any path, any Apple domain.
+  const urls = new Set();
+  for (const m of html.matchAll(/(?:src|href)\s*=\s*["']([^"']+\.js(?:\?[^"']*)?)["']/g)) {
+    let u = m[1];
+    if (u.startsWith("//")) u = "https:" + u;
+    else if (u.startsWith("/")) u = "https://music.apple.com" + u;
+    else if (!u.startsWith("http")) u = "https://music.apple.com/" + u;
+    urls.add(u);
+  }
+  // Main app bundles ("index") are the most likely token carriers — try them first.
+  const candidates = [...urls].sort(
+    (a, b) => (b.includes("index") ? 1 : 0) - (a.includes("index") ? 1 : 0)
   );
-  for (const path of bundlePaths) {
-    const js = await fetch(`https://music.apple.com${path}`, {
-      headers: { "user-agent": UA },
-    });
-    if (!js.ok) continue;
-    const body = await js.text();
-    const jwt = body.match(/eyJh[A-Za-z0-9_-]{10,}\.[A-Za-z0-9_-]{10,}\.[A-Za-z0-9_-]{10,}/);
-    if (jwt) return { token: jwt[0], html };
+  console.log(`Token hunt: ${candidates.length} JS bundle(s) referenced by the page.`);
+
+  for (const url of candidates.slice(0, 15)) {
+    try {
+      const js = await fetch(url, { headers: { "user-agent": UA } });
+      if (!js.ok) continue;
+      const body = await js.text();
+      const jwt = body.match(JWT_RE);
+      if (jwt) {
+        console.log(`Token found in bundle: ${url.split("/").pop().slice(0, 60)}`);
+        return { token: jwt[0], html };
+      }
+    } catch {
+      /* skip unreachable bundle */
+    }
   }
   return { token: null, html };
 }
