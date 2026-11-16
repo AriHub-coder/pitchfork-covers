@@ -1,11 +1,27 @@
 {
   "meta": {
     "source": "https://music.apple.com/us/playlist/pitchfork-selects/pl.9107845577c24fe3be7193c55d7864b0",
-    "lastRun": "2026-11-09T22:38:17.322Z",
-    "lastWeek": "2026-W46",
-    "totalAlbums": 486
+    "lastRun": "2026-11-16T22:26:41.848Z",
+    "lastWeek": "2026-W47",
+    "totalAlbums": 487
   },
   "albums": [
+    {
+      "key": "lucy bedroque::https is1 ssl mzstatic com image thumb music211 v4 46 7d 96 467d9687 f8ed b060 5a90 4bfd2069f962 075679556868 jpg w x h bb f",
+      "artist": "Lucy Bedroque",
+      "album": "",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/7d/96/467d9687-f8ed-b060-5a90-4bfd2069f962/075679556868.jpg/2000x2000bb.jpg",
+      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/7d/96/467d9687-f8ed-b060-5a90-4bfd2069f962/075679556868.jpg/{w}x{h}bb.{f}",
+      "appleUrl": null,
+      "releaseDate": null,
+      "tracks": [],
+      "playlistIndex": 133,
+      "weekAdded": "2026-W47",
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16",
+      "inPlaylist": true,
+      "creditsChecked": false
+    },
     {
       "key": "bassvictim::https is1 ssl mzstatic com image thumb music221 v4 9b f9 b1 9bf9b1a5 018b f322 4a53 14a6718544e7 093624812289 jpg w x h bb f",
       "artist": "Bassvictim",
@@ -18,7 +34,7 @@
       "playlistIndex": 0,
       "weekAdded": "2026-W46",
       "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -34,7 +50,7 @@
       "playlistIndex": 1,
       "weekAdded": "2026-W46",
       "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -50,7 +66,7 @@
       "playlistIndex": 2,
       "weekAdded": "2026-W46",
       "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -66,7 +82,7 @@
       "playlistIndex": 3,
       "weekAdded": "2026-W46",
       "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -82,7 +98,7 @@
       "playlistIndex": 4,
       "weekAdded": "2026-W46",
       "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -98,7 +114,7 @@
       "playlistIndex": 5,
       "weekAdded": "2026-W46",
       "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -114,7 +130,7 @@
       "playlistIndex": 6,
       "weekAdded": "2026-W46",
       "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -130,7 +146,7 @@
       "playlistIndex": 7,
       "weekAdded": "2026-W46",
       "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -146,7 +162,7 @@
       "playlistIndex": 8,
       "weekAdded": "2026-W46",
       "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -162,7 +178,7 @@
       "playlistIndex": 9,
       "weekAdded": "2026-W46",
       "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -178,7 +194,7 @@
       "playlistIndex": 10,
       "weekAdded": "2026-W46",
       "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -194,7 +210,7 @@
       "playlistIndex": 31,
       "weekAdded": "2026-W46",
       "firstSeen": "2026-11-09",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -210,7 +226,7 @@
       "playlistIndex": 11,
       "weekAdded": "2026-W45",
       "firstSeen": "2026-11-02",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -226,7 +242,7 @@
       "playlistIndex": 12,
       "weekAdded": "2026-W45",
       "firstSeen": "2026-11-02",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -242,7 +258,7 @@
       "playlistIndex": 13,
       "weekAdded": "2026-W45",
       "firstSeen": "2026-11-02",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -258,7 +274,7 @@
       "playlistIndex": 14,
       "weekAdded": "2026-W45",
       "firstSeen": "2026-11-02",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -274,7 +290,7 @@
       "playlistIndex": 15,
       "weekAdded": "2026-W45",
       "firstSeen": "2026-11-02",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -290,7 +306,7 @@
       "playlistIndex": 16,
       "weekAdded": "2026-W45",
       "firstSeen": "2026-11-02",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -306,7 +322,7 @@
       "playlistIndex": 17,
       "weekAdded": "2026-W45",
       "firstSeen": "2026-11-02",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -322,7 +338,7 @@
       "playlistIndex": 18,
       "weekAdded": "2026-W45",
       "firstSeen": "2026-11-02",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -338,7 +354,7 @@
       "playlistIndex": 19,
       "weekAdded": "2026-W45",
       "firstSeen": "2026-11-02",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -354,7 +370,7 @@
       "playlistIndex": 20,
       "weekAdded": "2026-W45",
       "firstSeen": "2026-11-02",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -370,7 +386,7 @@
       "playlistIndex": 21,
       "weekAdded": "2026-W45",
       "firstSeen": "2026-11-02",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -386,7 +402,7 @@
       "playlistIndex": 22,
       "weekAdded": "2026-W45",
       "firstSeen": "2026-11-02",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -402,7 +418,7 @@
       "playlistIndex": 23,
       "weekAdded": "2026-W45",
       "firstSeen": "2026-11-02",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -434,7 +450,7 @@
       "playlistIndex": 24,
       "weekAdded": "2026-W44",
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -450,7 +466,7 @@
       "playlistIndex": 25,
       "weekAdded": "2026-W44",
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -466,7 +482,7 @@
       "playlistIndex": 26,
       "weekAdded": "2026-W44",
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -482,7 +498,7 @@
       "playlistIndex": 27,
       "weekAdded": "2026-W44",
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -498,7 +514,7 @@
       "playlistIndex": 28,
       "weekAdded": "2026-W44",
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -514,7 +530,7 @@
       "playlistIndex": 29,
       "weekAdded": "2026-W44",
       "firstSeen": "2026-10-26",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -530,7 +546,7 @@
       "playlistIndex": 32,
       "weekAdded": "2026-W43",
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -546,7 +562,7 @@
       "playlistIndex": 33,
       "weekAdded": "2026-W43",
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -562,7 +578,7 @@
       "playlistIndex": 34,
       "weekAdded": "2026-W43",
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -578,7 +594,7 @@
       "playlistIndex": 35,
       "weekAdded": "2026-W43",
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -594,7 +610,7 @@
       "playlistIndex": 36,
       "weekAdded": "2026-W43",
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -610,7 +626,7 @@
       "playlistIndex": 37,
       "weekAdded": "2026-W43",
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -626,7 +642,7 @@
       "playlistIndex": 38,
       "weekAdded": "2026-W43",
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -642,7 +658,7 @@
       "playlistIndex": 39,
       "weekAdded": "2026-W43",
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -658,7 +674,7 @@
       "playlistIndex": 40,
       "weekAdded": "2026-W43",
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -674,7 +690,7 @@
       "playlistIndex": 41,
       "weekAdded": "2026-W43",
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -690,7 +706,7 @@
       "playlistIndex": 42,
       "weekAdded": "2026-W43",
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -706,7 +722,7 @@
       "playlistIndex": 43,
       "weekAdded": "2026-W43",
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -722,7 +738,7 @@
       "playlistIndex": 44,
       "weekAdded": "2026-W43",
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -738,7 +754,7 @@
       "playlistIndex": 45,
       "weekAdded": "2026-W43",
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -754,7 +770,7 @@
       "playlistIndex": 46,
       "weekAdded": "2026-W43",
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -770,7 +786,7 @@
       "playlistIndex": 47,
       "weekAdded": "2026-W43",
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -786,7 +802,7 @@
       "playlistIndex": 48,
       "weekAdded": "2026-W43",
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -802,7 +818,7 @@
       "playlistIndex": 49,
       "weekAdded": "2026-W43",
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -818,7 +834,7 @@
       "playlistIndex": 50,
       "weekAdded": "2026-W43",
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -834,7 +850,7 @@
       "playlistIndex": 51,
       "weekAdded": "2026-W43",
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -850,7 +866,7 @@
       "playlistIndex": 52,
       "weekAdded": "2026-W43",
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -866,7 +882,7 @@
       "playlistIndex": 53,
       "weekAdded": "2026-W43",
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -882,7 +898,7 @@
       "playlistIndex": 54,
       "weekAdded": "2026-W43",
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -898,7 +914,7 @@
       "playlistIndex": 55,
       "weekAdded": "2026-W43",
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -914,7 +930,7 @@
       "playlistIndex": 56,
       "weekAdded": "2026-W43",
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -930,7 +946,7 @@
       "playlistIndex": 57,
       "weekAdded": "2026-W43",
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -946,7 +962,7 @@
       "playlistIndex": 58,
       "weekAdded": "2026-W43",
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -962,7 +978,7 @@
       "playlistIndex": 59,
       "weekAdded": "2026-W43",
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -978,7 +994,7 @@
       "playlistIndex": 60,
       "weekAdded": "2026-W43",
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -994,7 +1010,7 @@
       "playlistIndex": 62,
       "weekAdded": "2026-W43",
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1010,7 +1026,7 @@
       "playlistIndex": 63,
       "weekAdded": "2026-W43",
       "firstSeen": "2026-10-19",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1026,7 +1042,7 @@
       "playlistIndex": 66,
       "weekAdded": "2026-W42",
       "firstSeen": "2026-10-12",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1042,7 +1058,7 @@
       "playlistIndex": 79,
       "weekAdded": "2026-W42",
       "firstSeen": "2026-10-12",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1055,10 +1071,10 @@
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
-      "playlistIndex": 205,
+      "playlistIndex": 206,
       "weekAdded": "2026-W42",
       "firstSeen": "2026-10-12",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1106,7 +1122,7 @@
       "playlistIndex": 64,
       "weekAdded": "2026-W41",
       "firstSeen": "2026-10-05",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1122,7 +1138,7 @@
       "playlistIndex": 65,
       "weekAdded": "2026-W41",
       "firstSeen": "2026-10-05",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1138,7 +1154,7 @@
       "playlistIndex": 67,
       "weekAdded": "2026-W41",
       "firstSeen": "2026-10-05",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1154,7 +1170,7 @@
       "playlistIndex": 68,
       "weekAdded": "2026-W41",
       "firstSeen": "2026-10-05",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1170,7 +1186,7 @@
       "playlistIndex": 69,
       "weekAdded": "2026-W41",
       "firstSeen": "2026-10-05",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1186,7 +1202,7 @@
       "playlistIndex": 71,
       "weekAdded": "2026-W41",
       "firstSeen": "2026-10-05",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1202,7 +1218,7 @@
       "playlistIndex": 72,
       "weekAdded": "2026-W41",
       "firstSeen": "2026-10-05",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1218,7 +1234,7 @@
       "playlistIndex": 73,
       "weekAdded": "2026-W41",
       "firstSeen": "2026-10-05",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1234,7 +1250,7 @@
       "playlistIndex": 74,
       "weekAdded": "2026-W41",
       "firstSeen": "2026-10-05",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1250,7 +1266,7 @@
       "playlistIndex": 75,
       "weekAdded": "2026-W41",
       "firstSeen": "2026-10-05",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1266,7 +1282,7 @@
       "playlistIndex": 76,
       "weekAdded": "2026-W41",
       "firstSeen": "2026-10-05",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1282,7 +1298,7 @@
       "playlistIndex": 77,
       "weekAdded": "2026-W41",
       "firstSeen": "2026-10-05",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1298,7 +1314,7 @@
       "playlistIndex": 78,
       "weekAdded": "2026-W41",
       "firstSeen": "2026-10-05",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1314,7 +1330,7 @@
       "playlistIndex": 30,
       "weekAdded": "2026-W40",
       "firstSeen": "2026-09-28",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1330,7 +1346,7 @@
       "playlistIndex": 80,
       "weekAdded": "2026-W40",
       "firstSeen": "2026-09-28",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1346,7 +1362,7 @@
       "playlistIndex": 81,
       "weekAdded": "2026-W40",
       "firstSeen": "2026-09-28",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1362,7 +1378,7 @@
       "playlistIndex": 82,
       "weekAdded": "2026-W40",
       "firstSeen": "2026-09-28",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1378,7 +1394,7 @@
       "playlistIndex": 83,
       "weekAdded": "2026-W40",
       "firstSeen": "2026-09-28",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1394,7 +1410,7 @@
       "playlistIndex": 84,
       "weekAdded": "2026-W40",
       "firstSeen": "2026-09-28",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1410,7 +1426,7 @@
       "playlistIndex": 85,
       "weekAdded": "2026-W40",
       "firstSeen": "2026-09-28",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1426,7 +1442,7 @@
       "playlistIndex": 86,
       "weekAdded": "2026-W40",
       "firstSeen": "2026-09-28",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1442,7 +1458,7 @@
       "playlistIndex": 87,
       "weekAdded": "2026-W40",
       "firstSeen": "2026-09-28",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1458,7 +1474,7 @@
       "playlistIndex": 88,
       "weekAdded": "2026-W40",
       "firstSeen": "2026-09-28",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1474,7 +1490,7 @@
       "playlistIndex": 89,
       "weekAdded": "2026-W40",
       "firstSeen": "2026-09-28",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1487,10 +1503,10 @@
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
-      "playlistIndex": 280,
+      "playlistIndex": 281,
       "weekAdded": "2026-W40",
       "firstSeen": "2026-09-28",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1506,7 +1522,7 @@
       "playlistIndex": 90,
       "weekAdded": "2026-W39",
       "firstSeen": "2026-09-21",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1522,7 +1538,7 @@
       "playlistIndex": 91,
       "weekAdded": "2026-W39",
       "firstSeen": "2026-09-21",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1538,7 +1554,7 @@
       "playlistIndex": 92,
       "weekAdded": "2026-W39",
       "firstSeen": "2026-09-21",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1554,7 +1570,7 @@
       "playlistIndex": 93,
       "weekAdded": "2026-W39",
       "firstSeen": "2026-09-21",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1570,7 +1586,7 @@
       "playlistIndex": 94,
       "weekAdded": "2026-W39",
       "firstSeen": "2026-09-21",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1586,7 +1602,7 @@
       "playlistIndex": 95,
       "weekAdded": "2026-W39",
       "firstSeen": "2026-09-21",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1602,7 +1618,7 @@
       "playlistIndex": 96,
       "weekAdded": "2026-W39",
       "firstSeen": "2026-09-21",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1618,7 +1634,7 @@
       "playlistIndex": 97,
       "weekAdded": "2026-W39",
       "firstSeen": "2026-09-21",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1634,7 +1650,7 @@
       "playlistIndex": 98,
       "weekAdded": "2026-W39",
       "firstSeen": "2026-09-21",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1650,7 +1666,7 @@
       "playlistIndex": 99,
       "weekAdded": "2026-W39",
       "firstSeen": "2026-09-21",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1666,7 +1682,7 @@
       "playlistIndex": 100,
       "weekAdded": "2026-W39",
       "firstSeen": "2026-09-21",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1682,7 +1698,7 @@
       "playlistIndex": 101,
       "weekAdded": "2026-W39",
       "firstSeen": "2026-09-21",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1698,7 +1714,7 @@
       "playlistIndex": 102,
       "weekAdded": "2026-W39",
       "firstSeen": "2026-09-21",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1714,7 +1730,7 @@
       "playlistIndex": 103,
       "weekAdded": "2026-W39",
       "firstSeen": "2026-09-21",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1730,7 +1746,7 @@
       "playlistIndex": 104,
       "weekAdded": "2026-W39",
       "firstSeen": "2026-09-21",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1746,7 +1762,7 @@
       "playlistIndex": 105,
       "weekAdded": "2026-W39",
       "firstSeen": "2026-09-21",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1762,7 +1778,7 @@
       "playlistIndex": 107,
       "weekAdded": "2026-W39",
       "firstSeen": "2026-09-21",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1778,7 +1794,7 @@
       "playlistIndex": 108,
       "weekAdded": "2026-W39",
       "firstSeen": "2026-09-21",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1794,7 +1810,7 @@
       "playlistIndex": 109,
       "weekAdded": "2026-W39",
       "firstSeen": "2026-09-21",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1810,7 +1826,7 @@
       "playlistIndex": 110,
       "weekAdded": "2026-W39",
       "firstSeen": "2026-09-21",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1826,7 +1842,7 @@
       "playlistIndex": 111,
       "weekAdded": "2026-W38",
       "firstSeen": "2026-09-14",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1842,7 +1858,7 @@
       "playlistIndex": 112,
       "weekAdded": "2026-W38",
       "firstSeen": "2026-09-14",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1858,7 +1874,7 @@
       "playlistIndex": 113,
       "weekAdded": "2026-W38",
       "firstSeen": "2026-09-14",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1874,7 +1890,7 @@
       "playlistIndex": 114,
       "weekAdded": "2026-W38",
       "firstSeen": "2026-09-14",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1890,7 +1906,7 @@
       "playlistIndex": 115,
       "weekAdded": "2026-W38",
       "firstSeen": "2026-09-14",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1906,7 +1922,7 @@
       "playlistIndex": 116,
       "weekAdded": "2026-W38",
       "firstSeen": "2026-09-14",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1922,7 +1938,7 @@
       "playlistIndex": 117,
       "weekAdded": "2026-W38",
       "firstSeen": "2026-09-14",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1938,7 +1954,7 @@
       "playlistIndex": 118,
       "weekAdded": "2026-W38",
       "firstSeen": "2026-09-14",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1954,7 +1970,7 @@
       "playlistIndex": 119,
       "weekAdded": "2026-W38",
       "firstSeen": "2026-09-14",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1967,10 +1983,10 @@
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
-      "playlistIndex": 270,
+      "playlistIndex": 271,
       "weekAdded": "2026-W38",
       "firstSeen": "2026-09-14",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -1986,7 +2002,7 @@
       "playlistIndex": 120,
       "weekAdded": "2026-W36",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2018,7 +2034,7 @@
       "playlistIndex": 121,
       "weekAdded": "2026-W36",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2034,7 +2050,7 @@
       "playlistIndex": 122,
       "weekAdded": "2026-W36",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2050,7 +2066,7 @@
       "playlistIndex": 123,
       "weekAdded": "2026-W36",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2066,7 +2082,7 @@
       "playlistIndex": 124,
       "weekAdded": "2026-W36",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2082,7 +2098,7 @@
       "playlistIndex": 125,
       "weekAdded": "2026-W36",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2098,7 +2114,7 @@
       "playlistIndex": 127,
       "weekAdded": "2026-W36",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2114,7 +2130,7 @@
       "playlistIndex": 128,
       "weekAdded": "2026-W36",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2130,7 +2146,7 @@
       "playlistIndex": 129,
       "weekAdded": "2026-W36",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2146,7 +2162,7 @@
       "playlistIndex": 130,
       "weekAdded": "2026-W36",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2162,7 +2178,7 @@
       "playlistIndex": 131,
       "weekAdded": "2026-W36",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2178,7 +2194,7 @@
       "playlistIndex": 132,
       "weekAdded": "2026-W36",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2191,10 +2207,10 @@
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
-      "playlistIndex": 133,
+      "playlistIndex": 134,
       "weekAdded": "2026-W36",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2207,10 +2223,10 @@
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
-      "playlistIndex": 134,
+      "playlistIndex": 135,
       "weekAdded": "2026-W36",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2223,10 +2239,10 @@
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
-      "playlistIndex": 160,
+      "playlistIndex": 161,
       "weekAdded": "2026-W36",
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2271,10 +2287,10 @@
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
-      "playlistIndex": 136,
+      "playlistIndex": 137,
       "weekAdded": "2026-W35",
       "firstSeen": "2026-08-24",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2287,10 +2303,10 @@
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
-      "playlistIndex": 137,
+      "playlistIndex": 138,
       "weekAdded": "2026-W35",
       "firstSeen": "2026-08-24",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2303,10 +2319,10 @@
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
-      "playlistIndex": 138,
+      "playlistIndex": 139,
       "weekAdded": "2026-W35",
       "firstSeen": "2026-08-24",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2319,10 +2335,10 @@
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
-      "playlistIndex": 139,
+      "playlistIndex": 140,
       "weekAdded": "2026-W35",
       "firstSeen": "2026-08-24",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2335,10 +2351,10 @@
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
-      "playlistIndex": 140,
+      "playlistIndex": 141,
       "weekAdded": "2026-W35",
       "firstSeen": "2026-08-24",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2351,10 +2367,10 @@
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
-      "playlistIndex": 141,
+      "playlistIndex": 142,
       "weekAdded": "2026-W35",
       "firstSeen": "2026-08-24",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2367,10 +2383,10 @@
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
-      "playlistIndex": 142,
+      "playlistIndex": 143,
       "weekAdded": "2026-W35",
       "firstSeen": "2026-08-24",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2383,10 +2399,10 @@
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
-      "playlistIndex": 143,
+      "playlistIndex": 144,
       "weekAdded": "2026-W35",
       "firstSeen": "2026-08-24",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2399,10 +2415,10 @@
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
-      "playlistIndex": 144,
+      "playlistIndex": 145,
       "weekAdded": "2026-W35",
       "firstSeen": "2026-08-24",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2415,10 +2431,10 @@
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
-      "playlistIndex": 145,
+      "playlistIndex": 146,
       "weekAdded": "2026-W35",
       "firstSeen": "2026-08-24",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2431,10 +2447,10 @@
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
-      "playlistIndex": 146,
+      "playlistIndex": 147,
       "weekAdded": "2026-W35",
       "firstSeen": "2026-08-24",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2447,10 +2463,10 @@
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
-      "playlistIndex": 147,
+      "playlistIndex": 148,
       "weekAdded": "2026-W35",
       "firstSeen": "2026-08-24",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2463,10 +2479,10 @@
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
-      "playlistIndex": 148,
+      "playlistIndex": 149,
       "weekAdded": "2026-W35",
       "firstSeen": "2026-08-24",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2479,10 +2495,10 @@
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
-      "playlistIndex": 152,
+      "playlistIndex": 153,
       "weekAdded": "2026-W35",
       "firstSeen": "2026-08-24",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2511,10 +2527,10 @@
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
-      "playlistIndex": 151,
+      "playlistIndex": 152,
       "weekAdded": "2026-W34",
       "firstSeen": "2026-08-17",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2527,10 +2543,10 @@
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
-      "playlistIndex": 153,
+      "playlistIndex": 154,
       "weekAdded": "2026-W34",
       "firstSeen": "2026-08-17",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2543,10 +2559,10 @@
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
-      "playlistIndex": 154,
+      "playlistIndex": 155,
       "weekAdded": "2026-W34",
       "firstSeen": "2026-08-17",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2559,10 +2575,10 @@
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
-      "playlistIndex": 155,
+      "playlistIndex": 156,
       "weekAdded": "2026-W34",
       "firstSeen": "2026-08-17",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2575,10 +2591,10 @@
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
-      "playlistIndex": 156,
+      "playlistIndex": 157,
       "weekAdded": "2026-W34",
       "firstSeen": "2026-08-17",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2626,7 +2642,7 @@
       "playlistIndex": 61,
       "weekAdded": "2026-W33",
       "firstSeen": "2026-08-10",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2639,10 +2655,10 @@
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
-      "playlistIndex": 157,
+      "playlistIndex": 158,
       "weekAdded": "2026-W33",
       "firstSeen": "2026-08-10",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2655,10 +2671,10 @@
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
-      "playlistIndex": 158,
+      "playlistIndex": 159,
       "weekAdded": "2026-W33",
       "firstSeen": "2026-08-10",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2671,10 +2687,10 @@
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
-      "playlistIndex": 159,
+      "playlistIndex": 160,
       "weekAdded": "2026-W33",
       "firstSeen": "2026-08-10",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2687,10 +2703,10 @@
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
-      "playlistIndex": 161,
+      "playlistIndex": 162,
       "weekAdded": "2026-W33",
       "firstSeen": "2026-08-10",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2703,10 +2719,10 @@
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
-      "playlistIndex": 162,
+      "playlistIndex": 163,
       "weekAdded": "2026-W33",
       "firstSeen": "2026-08-10",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2719,10 +2735,10 @@
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
-      "playlistIndex": 163,
+      "playlistIndex": 164,
       "weekAdded": "2026-W33",
       "firstSeen": "2026-08-10",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2735,10 +2751,10 @@
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
-      "playlistIndex": 164,
+      "playlistIndex": 165,
       "weekAdded": "2026-W33",
       "firstSeen": "2026-08-10",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2751,10 +2767,10 @@
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
-      "playlistIndex": 165,
+      "playlistIndex": 166,
       "weekAdded": "2026-W33",
       "firstSeen": "2026-08-10",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2767,10 +2783,10 @@
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
-      "playlistIndex": 166,
+      "playlistIndex": 167,
       "weekAdded": "2026-W33",
       "firstSeen": "2026-08-10",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2783,10 +2799,10 @@
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
-      "playlistIndex": 167,
+      "playlistIndex": 168,
       "weekAdded": "2026-W33",
       "firstSeen": "2026-08-10",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2799,10 +2815,10 @@
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
-      "playlistIndex": 168,
+      "playlistIndex": 169,
       "weekAdded": "2026-W33",
       "firstSeen": "2026-08-10",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2815,10 +2831,10 @@
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
-      "playlistIndex": 169,
+      "playlistIndex": 170,
       "weekAdded": "2026-W33",
       "firstSeen": "2026-08-10",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2847,10 +2863,10 @@
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
-      "playlistIndex": 170,
+      "playlistIndex": 171,
       "weekAdded": "2026-W32",
       "firstSeen": "2026-08-03",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2863,10 +2879,10 @@
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
-      "playlistIndex": 172,
+      "playlistIndex": 173,
       "weekAdded": "2026-W32",
       "firstSeen": "2026-08-03",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2879,10 +2895,10 @@
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
-      "playlistIndex": 174,
+      "playlistIndex": 175,
       "weekAdded": "2026-W32",
       "firstSeen": "2026-08-03",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2895,10 +2911,10 @@
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
-      "playlistIndex": 175,
+      "playlistIndex": 176,
       "weekAdded": "2026-W32",
       "firstSeen": "2026-08-03",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2911,10 +2927,10 @@
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
-      "playlistIndex": 176,
+      "playlistIndex": 177,
       "weekAdded": "2026-W32",
       "firstSeen": "2026-08-03",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2927,10 +2943,10 @@
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
-      "playlistIndex": 177,
+      "playlistIndex": 178,
       "weekAdded": "2026-W32",
       "firstSeen": "2026-08-03",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2943,10 +2959,10 @@
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
-      "playlistIndex": 178,
+      "playlistIndex": 179,
       "weekAdded": "2026-W32",
       "firstSeen": "2026-08-03",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2959,10 +2975,10 @@
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
-      "playlistIndex": 179,
+      "playlistIndex": 180,
       "weekAdded": "2026-W32",
       "firstSeen": "2026-08-03",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2975,10 +2991,10 @@
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
-      "playlistIndex": 180,
+      "playlistIndex": 181,
       "weekAdded": "2026-W32",
       "firstSeen": "2026-08-03",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -2991,10 +3007,10 @@
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
-      "playlistIndex": 181,
+      "playlistIndex": 182,
       "weekAdded": "2026-W32",
       "firstSeen": "2026-08-03",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -3007,10 +3023,10 @@
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
-      "playlistIndex": 182,
+      "playlistIndex": 183,
       "weekAdded": "2026-W32",
       "firstSeen": "2026-08-03",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -3023,10 +3039,10 @@
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
-      "playlistIndex": 183,
+      "playlistIndex": 184,
       "weekAdded": "2026-W32",
       "firstSeen": "2026-08-03",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -3039,10 +3055,10 @@
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
-      "playlistIndex": 233,
+      "playlistIndex": 234,
       "weekAdded": "2026-W32",
       "firstSeen": "2026-08-03",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -3071,10 +3087,10 @@
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
-      "playlistIndex": 275,
+      "playlistIndex": 276,
       "weekAdded": "2026-W32",
       "firstSeen": "2026-08-03",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false
     },
@@ -3105,7 +3121,7 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
       "playlistIndex": 70
@@ -3137,7 +3153,7 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
       "playlistIndex": 106
@@ -3153,7 +3169,7 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
       "playlistIndex": 126
@@ -3169,10 +3185,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 135
+      "playlistIndex": 136
     },
     {
       "key": "radamiz cleo reed sebastian mikael::https is1 ssl mzstatic com image thumb music211 v4 3b 84 84 3b84849d 1fe4 da5e a869 7cd63ab7c2f2 16241 jpg w x h bb f",
@@ -3201,10 +3217,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 149
+      "playlistIndex": 150
     },
     {
       "key": "::https is1 ssl mzstatic com image thumb music221 v4 96 bf 09 96bf09cb e1e0 32c0 44bc ab2e443dcb4d 191400091078 png w x h bb f",
@@ -3217,10 +3233,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 150
+      "playlistIndex": 151
     },
     {
       "key": "fakemink::https is1 ssl mzstatic com image thumb music211 v4 60 26 a4 6026a4d8 bcce 8c54 4988 88e4047c3fe9 840471814559 png w x h bb f",
@@ -3249,10 +3265,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 171
+      "playlistIndex": 172
     },
     {
       "key": "tyla::https is1 ssl mzstatic com image thumb music221 v4 f8 09 38 f8093848 393b f23c 4ced 02679d75403f 196874296929 jpg w x h bb f",
@@ -3265,10 +3281,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 173
+      "playlistIndex": 174
     },
     {
       "key": "molly santana chy cartier::https is1 ssl mzstatic com image thumb music221 v4 b4 50 6c b4506c36 11d2 53c2 15cc b07c03c17940 artwork jpg w x h bb f",
@@ -3281,10 +3297,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 184
+      "playlistIndex": 185
     },
     {
       "key": "steve lacy::https is1 ssl mzstatic com image thumb music221 v4 1c b2 46 1cb246db afae a599 d377 44a7ea7267fa 196874346976 jpg w x h bb f",
@@ -3297,10 +3313,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 185
+      "playlistIndex": 186
     },
     {
       "key": "beck::https is1 ssl mzstatic com image thumb music211 v4 06 e4 45 06e445e7 9c2d 2a52 99b5 b6aa6a35a307 26umgim84718 rgb jpg w x h bb f",
@@ -3313,10 +3329,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 186
+      "playlistIndex": 187
     },
     {
       "key": "gelli haha::https is1 ssl mzstatic com image thumb music211 v4 42 d0 22 42d022b2 7bf2 f4a2 bc06 8c75e0996513 125483 jpg w x h bb f",
@@ -3345,10 +3361,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 187
+      "playlistIndex": 188
     },
     {
       "key": "swapmeet::https is1 ssl mzstatic com image thumb music221 v4 01 fa bc 01fabcf2 d6fe a523 17df 16dc847de3c0 64086 jpg w x h bb f",
@@ -3361,10 +3377,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 188
+      "playlistIndex": 189
     },
     {
       "key": "homework::https is1 ssl mzstatic com image thumb music211 v4 cc 38 a8 cc38a81c e1b7 c366 c01c ba556af59f62 373c8574 4c06 4e6a ac16 265d17743aac jpg w x h bb f",
@@ -3377,10 +3393,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 189
+      "playlistIndex": 190
     },
     {
       "key": "sachi keiko bridge percussion::https is1 ssl mzstatic com image thumb music221 v4 f0 40 d5 f040d504 53d6 078c b54d 79c0f072d471 artwork jpg w x h bb f",
@@ -3393,10 +3409,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 190
+      "playlistIndex": 191
     },
     {
       "key": "beyonce::https is1 ssl mzstatic com image thumb music221 v4 3f 65 3d 3f653d87 197c 084c dca2 0c6e0ca742c9 196874580721 jpg w x h bb f",
@@ -3409,23 +3425,7 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
-      "inPlaylist": true,
-      "creditsChecked": false,
-      "playlistIndex": 191
-    },
-    {
-      "key": "liim::https is1 ssl mzstatic com image thumb music221 v4 c9 72 0d c9720d7b dac7 7bfc f9b4 36ef03898440 823191839583 cover jpg w x h bb f",
-      "artist": "Liim",
-      "album": "",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/72/0d/c9720d7b-dac7-7bfc-f9b4-36ef03898440/823191839583_cover.jpg/2000x2000bb.jpg",
-      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/72/0d/c9720d7b-dac7-7bfc-f9b4-36ef03898440/823191839583_cover.jpg/{w}x{h}bb.{f}",
-      "appleUrl": null,
-      "releaseDate": null,
-      "tracks": [],
-      "weekAdded": "2026-W30",
-      "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
       "playlistIndex": 192
@@ -3447,6 +3447,22 @@
       "playlistIndex": 193
     },
     {
+      "key": "liim::https is1 ssl mzstatic com image thumb music221 v4 c9 72 0d c9720d7b dac7 7bfc f9b4 36ef03898440 823191839583 cover jpg w x h bb f",
+      "artist": "Liim",
+      "album": "",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/72/0d/c9720d7b-dac7-7bfc-f9b4-36ef03898440/823191839583_cover.jpg/2000x2000bb.jpg",
+      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/72/0d/c9720d7b-dac7-7bfc-f9b4-36ef03898440/823191839583_cover.jpg/{w}x{h}bb.{f}",
+      "appleUrl": null,
+      "releaseDate": null,
+      "tracks": [],
+      "weekAdded": "2026-W30",
+      "firstSeen": "2026-07-22",
+      "lastSeen": "2026-11-16",
+      "inPlaylist": true,
+      "creditsChecked": false,
+      "playlistIndex": 193
+    },
+    {
       "key": "gilla band::https is1 ssl mzstatic com image thumb music211 v4 0e eb 6e 0eeb6e9a 7e00 d00d d508 e75627e4a5cf 191402061673 png w x h bb f",
       "artist": "Gilla Band",
       "album": "",
@@ -3457,10 +3473,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 193
+      "playlistIndex": 194
     },
     {
       "key": "gloorp::https is1 ssl mzstatic com image thumb music211 v4 2d dc 45 2ddc45f7 26c5 664c 9115 7a14876c24a1 125931 jpg w x h bb f",
@@ -3473,10 +3489,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 194
+      "playlistIndex": 195
     },
     {
       "key": "diamond::https is1 ssl mzstatic com image thumb music211 v4 88 a2 50 88a25046 b531 6abb 4622 0d21251616b9 075679568113 jpg w x h bb f",
@@ -3489,10 +3505,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 195
+      "playlistIndex": 196
     },
     {
       "key": "tran uy duc::https is1 ssl mzstatic com image thumb music211 v4 16 d7 75 16d775b2 7580 6d62 29e2 42414e9df890 4062548146608 png w x h bb f",
@@ -3505,10 +3521,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 196
+      "playlistIndex": 197
     },
     {
       "key": "twisted teens::https is1 ssl mzstatic com image thumb music211 v4 f1 29 e9 f129e944 a215 dd6d 4c80 a8bd4237ece6 artwork jpg w x h bb f",
@@ -3521,10 +3537,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 197
+      "playlistIndex": 198
     },
     {
       "key": "mary in the junkyard::https is1 ssl mzstatic com image thumb music221 v4 15 eb 81 15eb819d bdf1 4456 86e6 30ab051a2e27 823375027874 cover jpg w x h bb f",
@@ -3537,10 +3553,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 198
+      "playlistIndex": 199
     },
     {
       "key": "will sheff okkervil river::https is1 ssl mzstatic com image thumb music221 v4 3b 00 91 3b009193 024c 7bea 0734 2d6c1e0d7708 199891884902 cover jpg w x h bb f",
@@ -3553,10 +3569,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 199
+      "playlistIndex": 200
     },
     {
       "key": "snooper::https is1 ssl mzstatic com image thumb music211 v4 e0 e4 0c e0e40c04 e18e 8e73 2e6b e7195ec96c43 artwork jpg w x h bb f",
@@ -3569,10 +3585,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 200
+      "playlistIndex": 201
     },
     {
       "key": "evil graham lee::https is1 ssl mzstatic com image thumb music211 v4 a8 89 c5 a889c599 6256 b0ad c6d0 e2a16fbb6681 8721555059597 png w x h bb f",
@@ -3585,10 +3601,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 201
+      "playlistIndex": 202
     },
     {
       "key": "madonna::https is1 ssl mzstatic com image thumb music211 v4 eb 8f 5d eb8f5dcf aec1 1f58 fbea dc0bb086f1c8 093624819837 jpg w x h bb f",
@@ -3601,10 +3617,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 202
+      "playlistIndex": 203
     },
     {
       "key": "kay nive::https is1 ssl mzstatic com image thumb music211 v4 f4 ab 8b f4ab8b64 b27b 72e3 6325 ce477673a00a artwork jpg w x h bb f",
@@ -3617,10 +3633,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 203
+      "playlistIndex": 204
     },
     {
       "key": "rylo rodriguez::https is1 ssl mzstatic com image thumb music211 v4 64 e0 fd 64e0fdb9 9cf4 4e76 7493 cf9403d2dab3 26umgim85125 rgb jpg w x h bb f",
@@ -3633,10 +3649,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 204
+      "playlistIndex": 205
     },
     {
       "key": "nirosta steel::https is1 ssl mzstatic com image thumb music221 v4 c8 b3 57 c8b35745 4fb9 e1a9 9c12 80c7b5431303 10138 jpg w x h bb f",
@@ -3649,10 +3665,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 206
+      "playlistIndex": 207
     },
     {
       "key": "shabason krgovich joseph shabason nicholas krgovich::https is1 ssl mzstatic com image thumb music221 v4 13 dd eb 13ddebbc 0c7c 963c 1c37 a929e5f0527c 9973 jpg w x h bb f",
@@ -3665,10 +3681,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 207
+      "playlistIndex": 208
     },
     {
       "key": "fiddlehead::https is1 ssl mzstatic com image thumb music221 v4 00 7f 7d 007f7d57 bb9c d883 cfda 9b63bc572e88 66094 jpg w x h bb f",
@@ -3681,10 +3697,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 208
+      "playlistIndex": 209
     },
     {
       "key": "the ritornello form::https is1 ssl mzstatic com image thumb music211 v4 56 73 21 567321ea 38fc 22f1 500a 65fb3557a3ce artwork jpg w x h bb f",
@@ -3697,10 +3713,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 209
+      "playlistIndex": 210
     },
     {
       "key": "this is lorelei::https is1 ssl mzstatic com image thumb music211 v4 43 86 37 438637b7 d063 02d4 e1bd 5b3c6be6f9aa 191401221771 png w x h bb f",
@@ -3713,10 +3729,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 210
+      "playlistIndex": 211
     },
     {
       "key": "dari bay::https is1 ssl mzstatic com image thumb music221 v4 a2 f1 b9 a2f1b9b6 9912 b642 1f67 0406b4b585c9 124650 jpg w x h bb f",
@@ -3729,10 +3745,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 211
+      "playlistIndex": 212
     },
     {
       "key": "mildred::https is1 ssl mzstatic com image thumb music221 v4 6e 30 52 6e3052e3 92c4 bde6 0d7a d7f5adb97e7e cover jpg w x h bb f",
@@ -3745,10 +3761,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 212
+      "playlistIndex": 213
     },
     {
       "key": "carly rae jepsen::https is1 ssl mzstatic com image thumb music211 v4 7f a4 3c 7fa43c1b 3ffe 098f aee0 73f02b6015c7 26umgim74142 rgb jpg w x h bb f",
@@ -3761,42 +3777,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
-      "inPlaylist": true,
-      "creditsChecked": false,
-      "playlistIndex": 213
-    },
-    {
-      "key": "girlsweetvoiced::https is1 ssl mzstatic com image thumb music221 v4 dc 14 2f dc142f33 a59d e51a a319 b0a02e480aeb 196874510469 jpg w x h bb f",
-      "artist": "girlsweetvoiced",
-      "album": "",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dc/14/2f/dc142f33-a59d-e51a-a319-b0a02e480aeb/196874510469.jpg/2000x2000bb.jpg",
-      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dc/14/2f/dc142f33-a59d-e51a-a319-b0a02e480aeb/196874510469.jpg/{w}x{h}bb.{f}",
-      "appleUrl": null,
-      "releaseDate": null,
-      "tracks": [],
-      "weekAdded": "2026-W30",
-      "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
       "playlistIndex": 214
-    },
-    {
-      "key": "debasement::https is1 ssl mzstatic com image thumb music221 v4 0e 59 30 0e593086 97cc 03ff 5b58 56b4e941a6a8 820233521666 jpg w x h bb f",
-      "artist": "deBasement",
-      "album": "",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0e/59/30/0e593086-97cc-03ff-5b58-56b4e941a6a8/820233521666.jpg/2000x2000bb.jpg",
-      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0e/59/30/0e593086-97cc-03ff-5b58-56b4e941a6a8/820233521666.jpg/{w}x{h}bb.{f}",
-      "appleUrl": null,
-      "releaseDate": null,
-      "tracks": [],
-      "weekAdded": "2026-W30",
-      "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
-      "inPlaylist": true,
-      "creditsChecked": false,
-      "playlistIndex": 215
     },
     {
       "key": "fakemink::https is1 ssl mzstatic com image thumb music211 v4 da 21 61 da216117 5af9 8cf7 1eb3 023d787102b5 840471814894 png w x h bb f",
@@ -3815,6 +3799,38 @@
       "playlistIndex": 215
     },
     {
+      "key": "girlsweetvoiced::https is1 ssl mzstatic com image thumb music221 v4 dc 14 2f dc142f33 a59d e51a a319 b0a02e480aeb 196874510469 jpg w x h bb f",
+      "artist": "girlsweetvoiced",
+      "album": "",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dc/14/2f/dc142f33-a59d-e51a-a319-b0a02e480aeb/196874510469.jpg/2000x2000bb.jpg",
+      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dc/14/2f/dc142f33-a59d-e51a-a319-b0a02e480aeb/196874510469.jpg/{w}x{h}bb.{f}",
+      "appleUrl": null,
+      "releaseDate": null,
+      "tracks": [],
+      "weekAdded": "2026-W30",
+      "firstSeen": "2026-07-22",
+      "lastSeen": "2026-11-16",
+      "inPlaylist": true,
+      "creditsChecked": false,
+      "playlistIndex": 215
+    },
+    {
+      "key": "debasement::https is1 ssl mzstatic com image thumb music221 v4 0e 59 30 0e593086 97cc 03ff 5b58 56b4e941a6a8 820233521666 jpg w x h bb f",
+      "artist": "deBasement",
+      "album": "",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0e/59/30/0e593086-97cc-03ff-5b58-56b4e941a6a8/820233521666.jpg/2000x2000bb.jpg",
+      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0e/59/30/0e593086-97cc-03ff-5b58-56b4e941a6a8/820233521666.jpg/{w}x{h}bb.{f}",
+      "appleUrl": null,
+      "releaseDate": null,
+      "tracks": [],
+      "weekAdded": "2026-W30",
+      "firstSeen": "2026-07-22",
+      "lastSeen": "2026-11-16",
+      "inPlaylist": true,
+      "creditsChecked": false,
+      "playlistIndex": 216
+    },
+    {
       "key": "icona pop::https is1 ssl mzstatic com image thumb music211 v4 4e f9 e9 4ef9e917 0bb7 7988 b5ba 781e15cdaeb2 196874146361 jpg w x h bb f",
       "artist": "Icona Pop",
       "album": "",
@@ -3825,23 +3841,7 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
-      "inPlaylist": true,
-      "creditsChecked": false,
-      "playlistIndex": 216
-    },
-    {
-      "key": "tiakola::https is1 ssl mzstatic com image thumb music211 v4 0c 7b bf 0c7bbfe2 0a42 02ce e4b4 3e065023cf05 ticket kplujxum jpg w x h bb f",
-      "artist": "Tiakola",
-      "album": "",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/7b/bf/0c7bbfe2-0a42-02ce-e4b4-3e065023cf05/ticket.kplujxum.jpg/2000x2000bb.jpg",
-      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/7b/bf/0c7bbfe2-0a42-02ce-e4b4-3e065023cf05/ticket.kplujxum.jpg/{w}x{h}bb.{f}",
-      "appleUrl": null,
-      "releaseDate": null,
-      "tracks": [],
-      "weekAdded": "2026-W30",
-      "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
       "playlistIndex": 217
@@ -3863,6 +3863,22 @@
       "playlistIndex": 218
     },
     {
+      "key": "tiakola::https is1 ssl mzstatic com image thumb music211 v4 0c 7b bf 0c7bbfe2 0a42 02ce e4b4 3e065023cf05 ticket kplujxum jpg w x h bb f",
+      "artist": "Tiakola",
+      "album": "",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/7b/bf/0c7bbfe2-0a42-02ce-e4b4-3e065023cf05/ticket.kplujxum.jpg/2000x2000bb.jpg",
+      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/7b/bf/0c7bbfe2-0a42-02ce-e4b4-3e065023cf05/ticket.kplujxum.jpg/{w}x{h}bb.{f}",
+      "appleUrl": null,
+      "releaseDate": null,
+      "tracks": [],
+      "weekAdded": "2026-W30",
+      "firstSeen": "2026-07-22",
+      "lastSeen": "2026-11-16",
+      "inPlaylist": true,
+      "creditsChecked": false,
+      "playlistIndex": 218
+    },
+    {
       "key": "saiah::https is1 ssl mzstatic com image thumb music211 v4 f8 93 c5 f893c570 cb42 22e8 d001 efccf2395c18 artwork jpg w x h bb f",
       "artist": "saiah",
       "album": "",
@@ -3873,10 +3889,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 218
+      "playlistIndex": 219
     },
     {
       "key": "mexikodro manman savage::https is1 ssl mzstatic com image thumb music211 v4 05 ba bd 05babd45 094e 0d4c 3e65 f21123d66bbc 26umgim78952 rgb jpg w x h bb f",
@@ -3889,10 +3905,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 219
+      "playlistIndex": 220
     },
     {
       "key": "laila::https is1 ssl mzstatic com image thumb music221 v4 c0 98 86 c09886dd 62a8 a572 6ef0 1d4ed7256daa 054391218612 jpg w x h bb f",
@@ -3905,10 +3921,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 220
+      "playlistIndex": 221
     },
     {
       "key": "diorbgs::https is1 ssl mzstatic com image thumb music211 v4 f5 70 c6 f570c61f 2b9d f070 f647 88282c2b08ac artwork jpg w x h bb f",
@@ -3921,10 +3937,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 221
+      "playlistIndex": 222
     },
     {
       "key": "pz::https is1 ssl mzstatic com image thumb music221 v4 c9 99 5e c9995e3d fcf1 24f4 e2b3 a1f7486c9f26 artwork jpg w x h bb f",
@@ -3937,10 +3953,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 222
+      "playlistIndex": 223
     },
     {
       "key": "ok::https is1 ssl mzstatic com image thumb music211 v4 9b 3f e1 9b3fe1d7 ccc0 99a3 e81f d13acbb41228 16882 jpg w x h bb f",
@@ -3953,10 +3969,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 223
+      "playlistIndex": 224
     },
     {
       "key": "sha ray dj haram::https is1 ssl mzstatic com image thumb music211 v4 66 74 6a 66746a7a ed65 a742 2d84 46607bdbcebf 5063916713742 cover jpg w x h bb f",
@@ -3969,10 +3985,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 224
+      "playlistIndex": 225
     },
     {
       "key": "fimiguerrero::https is1 ssl mzstatic com image thumb music211 v4 a7 84 62 a78462dc cdfd 9508 5639 677cb5e9953d 075679572165 jpg w x h bb f",
@@ -3985,10 +4001,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 225
+      "playlistIndex": 226
     },
     {
       "key": "kelela a k paul::https is1 ssl mzstatic com image thumb music211 v4 7a a8 9e 7aa89e2c ebb2 f4c4 fc20 42b17b465601 5056818808807 png w x h bb f",
@@ -4001,10 +4017,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 226
+      "playlistIndex": 227
     },
     {
       "key": "beverly glenn copeland::https is1 ssl mzstatic com image thumb music221 v4 a2 4a 53 a24a5301 9fd8 4ac7 4f2f 35f535de77b7 5400863212346 cover jpg w x h bb f",
@@ -4017,10 +4033,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 227
+      "playlistIndex": 228
     },
     {
       "key": "tana::https is1 ssl mzstatic com image thumb music211 v4 12 03 a9 1203a976 edac 8fc1 5578 d897c4063c74 612891058604 jpg w x h bb f",
@@ -4033,10 +4049,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 228
+      "playlistIndex": 229
     },
     {
       "key": "daine::https is1 ssl mzstatic com image thumb music211 v4 8d 11 bf 8d11bfab ba25 817d a09f d0d3e07d0efc 612891028249 jpg w x h bb f",
@@ -4049,10 +4065,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 229
+      "playlistIndex": 230
     },
     {
       "key": "jordan patterson::https is1 ssl mzstatic com image thumb music221 v4 0d c0 af 0dc0af8b 2378 af07 6e08 343e7232f272 66050 jpg w x h bb f",
@@ -4065,10 +4081,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 230
+      "playlistIndex": 231
     },
     {
       "key": "julia jacklin::https is1 ssl mzstatic com image thumb music221 v4 a3 93 40 a39340a9 676b 4099 c126 fcdd6b2f0bfe 191400094277 png w x h bb f",
@@ -4081,10 +4097,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 231
+      "playlistIndex": 232
     },
     {
       "key": "mallory hawk::https is1 ssl mzstatic com image thumb music211 v4 34 ea a2 34eaa203 a9ff 72ee da47 c9e70a56d307 8721466835273 png w x h bb f",
@@ -4097,10 +4113,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 232
+      "playlistIndex": 233
     },
     {
       "key": "hey nothing::https is1 ssl mzstatic com image thumb music211 v4 ed 35 8d ed358d37 4b87 e913 8955 a066518ff5ef 26umgim65614 rgb jpg w x h bb f",
@@ -4113,10 +4129,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 234
+      "playlistIndex": 235
     },
     {
       "key": "nu jazz::https is1 ssl mzstatic com image thumb music211 v4 6b 09 83 6b09837e 4aeb c9f9 e7a9 a6540a797281 824296804315 cover jpg w x h bb f",
@@ -4129,10 +4145,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 235
+      "playlistIndex": 236
     },
     {
       "key": "sango ha sizzle::https is1 ssl mzstatic com image thumb music211 v4 42 57 84 42578413 2e72 d15c bb07 a686f4db002a 820233431231 jpg w x h bb f",
@@ -4145,10 +4161,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 236
+      "playlistIndex": 237
     },
     {
       "key": "jaeychino::https is1 ssl mzstatic com image thumb music221 v4 e2 4e 65 e24e65fa 0f10 9389 cfc2 2641fee81f2f 808391383029 jpg w x h bb f",
@@ -4161,10 +4177,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 237
+      "playlistIndex": 238
     },
     {
       "key": "ibeenhip::https is1 ssl mzstatic com image thumb music211 v4 39 46 16 39461640 035b 9480 5627 a3c8365046d9 artwork jpg w x h bb f",
@@ -4177,10 +4193,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 238
+      "playlistIndex": 239
     },
     {
       "key": "lola hammerich::https is1 ssl mzstatic com image thumb music221 v4 60 8a 50 608a502d 10f8 a660 c32e 3868d2d7b3e8 cover jpg w x h bb f",
@@ -4193,10 +4209,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 239
+      "playlistIndex": 240
     },
     {
       "key": "basic::https is1 ssl mzstatic com image thumb music221 v4 b0 f8 f9 b0f8f906 e360 d280 42fb f377b4865c46 63845 jpg w x h bb f",
@@ -4209,10 +4225,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 240
+      "playlistIndex": 241
     },
     {
       "key": "buckets::https is1 ssl mzstatic com image thumb music211 v4 bd 69 3a bd693a79 4a12 7fc2 b253 e9457492e782 artwork jpg w x h bb f",
@@ -4225,10 +4241,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 241
+      "playlistIndex": 242
     },
     {
       "key": "kim petras::https is1 ssl mzstatic com image thumb music221 v4 d3 0c 8f d30c8f09 66db 8c4e 2583 32c4eb0de432 820233450478 jpg w x h bb f",
@@ -4241,10 +4257,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 242
+      "playlistIndex": 243
     },
     {
       "key": "horsegiirl::https is1 ssl mzstatic com image thumb music221 v4 75 e2 7f 75e27f2f 0262 df4f 4e2b 501e94a22152 196874053829 jpg w x h bb f",
@@ -4257,10 +4273,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 243
+      "playlistIndex": 244
     },
     {
       "key": "skrillex naisha::https is1 ssl mzstatic com image thumb music211 v4 8b fe b1 8bfeb1ad d9aa 1a45 e8c4 b7e5a4082095 075679573001 jpg w x h bb f",
@@ -4273,10 +4289,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 244
+      "playlistIndex": 245
     },
     {
       "key": "protect::https is1 ssl mzstatic com image thumb music221 v4 7f 60 ba 7f60ba85 7cfc 1db1 3240 32f685518494 075679589378 jpg w x h bb f",
@@ -4289,10 +4305,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 245
+      "playlistIndex": 246
     },
     {
       "key": "alewya::https is1 ssl mzstatic com image thumb music211 v4 af 13 08 af13084a 0ba7 ed48 abfa 755ed5867cac 5056556175346 cover jpg w x h bb f",
@@ -4305,10 +4321,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 246
+      "playlistIndex": 247
     },
     {
       "key": "akriila jane remover::https is1 ssl mzstatic com image thumb music211 v4 71 32 61 713261af 739c 1114 7916 4a81763771aa 075679578266 jpg w x h bb f",
@@ -4321,10 +4337,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 247
+      "playlistIndex": 248
     },
     {
       "key": "gi gi::https is1 ssl mzstatic com image thumb music221 v4 e1 65 3f e1653f0c 42ce 5d7f 567b 08a638307093 840200577847 cover jpg w x h bb f",
@@ -4337,10 +4353,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 248
+      "playlistIndex": 249
     },
     {
       "key": "uniiqu3::https is1 ssl mzstatic com image thumb music211 v4 76 c5 57 76c557fb f857 dc8a 7bee f7cad9e239c6 3663729448941 cover jpg w x h bb f",
@@ -4353,10 +4369,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 249
+      "playlistIndex": 250
     },
     {
       "key": "realyungphil::https is1 ssl mzstatic com image thumb music221 v4 86 1c ea 861ceaba 19e4 d8a6 a418 ff8af929deeb artwork jpg w x h bb f",
@@ -4369,10 +4385,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 250
+      "playlistIndex": 251
     },
     {
       "key": "iceage::https is1 ssl mzstatic com image thumb music221 v4 ff 57 5c ff575ca3 6107 544a 872b 2f76c6a305f3 184923136166 cover jpg w x h bb f",
@@ -4385,10 +4401,10 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 251
+      "playlistIndex": 252
     },
     {
       "key": "tasha::https is1 ssl mzstatic com image thumb music221 v4 12 2d 96 122d96a0 4147 81d8 049b 3dd17a4f46fd 64377 jpg w x h bb f",
@@ -4401,23 +4417,7 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
-      "inPlaylist": true,
-      "creditsChecked": false,
-      "playlistIndex": 252
-    },
-    {
-      "key": "weezer::https is1 ssl mzstatic com image thumb music211 v4 7b 4f c6 7b4fc6dc bb2a 4b73 0c58 fb1bd3e21102 093624819394 jpg w x h bb f",
-      "artist": "Weezer",
-      "album": "",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/4f/c6/7b4fc6dc-bb2a-4b73-0c58-fb1bd3e21102/093624819394.jpg/2000x2000bb.jpg",
-      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/4f/c6/7b4fc6dc-bb2a-4b73-0c58-fb1bd3e21102/093624819394.jpg/{w}x{h}bb.{f}",
-      "appleUrl": null,
-      "releaseDate": null,
-      "tracks": [],
-      "weekAdded": "2026-W30",
-      "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
       "playlistIndex": 253
@@ -4471,36 +4471,20 @@
       "playlistIndex": 254
     },
     {
-      "key": "the durutti column::https is1 ssl mzstatic com image thumb music221 v4 28 3e a1 283ea12e 1441 01a5 6ac1 27aeee09098a 5061017258995 jpg w x h bb f",
-      "artist": "The Durutti Column",
+      "key": "weezer::https is1 ssl mzstatic com image thumb music211 v4 7b 4f c6 7b4fc6dc bb2a 4b73 0c58 fb1bd3e21102 093624819394 jpg w x h bb f",
+      "artist": "Weezer",
       "album": "",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/3e/a1/283ea12e-1441-01a5-6ac1-27aeee09098a/5061017258995.jpg/2000x2000bb.jpg",
-      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/3e/a1/283ea12e-1441-01a5-6ac1-27aeee09098a/5061017258995.jpg/{w}x{h}bb.{f}",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/4f/c6/7b4fc6dc-bb2a-4b73-0c58-fb1bd3e21102/093624819394.jpg/2000x2000bb.jpg",
+      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/4f/c6/7b4fc6dc-bb2a-4b73-0c58-fb1bd3e21102/093624819394.jpg/{w}x{h}bb.{f}",
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
       "playlistIndex": 254
-    },
-    {
-      "key": "kelela::https is1 ssl mzstatic com image thumb music211 v4 7a a8 9e 7aa89e2c ebb2 f4c4 fc20 42b17b465601 5056818808807 png w x h bb f",
-      "artist": "Kelela",
-      "album": "",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7a/a8/9e/7aa89e2c-ebb2-f4c4-fc20-42b17b465601/5056818808807.png/2000x2000bb.jpg",
-      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7a/a8/9e/7aa89e2c-ebb2-f4c4-fc20-42b17b465601/5056818808807.png/{w}x{h}bb.{f}",
-      "appleUrl": null,
-      "releaseDate": null,
-      "tracks": [],
-      "weekAdded": "2026-W30",
-      "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
-      "inPlaylist": true,
-      "creditsChecked": false,
-      "playlistIndex": 255
     },
     {
       "key": "sophia stel::https is1 ssl mzstatic com image thumb music211 v4 aa de 2b aade2b26 54bd bb24 9749 35db4ac4b0f3 823375083795 cover jpg w x h bb f",
@@ -4519,17 +4503,33 @@
       "playlistIndex": 255
     },
     {
-      "key": "daydream plus::https is1 ssl mzstatic com image thumb music211 v4 94 c5 67 94c56744 69b1 9fa1 6aec 2824be7c6797 66196 jpg w x h bb f",
-      "artist": "Daydream Plus",
+      "key": "the durutti column::https is1 ssl mzstatic com image thumb music221 v4 28 3e a1 283ea12e 1441 01a5 6ac1 27aeee09098a 5061017258995 jpg w x h bb f",
+      "artist": "The Durutti Column",
       "album": "",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/c5/67/94c56744-69b1-9fa1-6aec-2824be7c6797/66196.jpg/2000x2000bb.jpg",
-      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/c5/67/94c56744-69b1-9fa1-6aec-2824be7c6797/66196.jpg/{w}x{h}bb.{f}",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/3e/a1/283ea12e-1441-01a5-6ac1-27aeee09098a/5061017258995.jpg/2000x2000bb.jpg",
+      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/3e/a1/283ea12e-1441-01a5-6ac1-27aeee09098a/5061017258995.jpg/{w}x{h}bb.{f}",
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
+      "inPlaylist": true,
+      "creditsChecked": false,
+      "playlistIndex": 255
+    },
+    {
+      "key": "kelela::https is1 ssl mzstatic com image thumb music211 v4 7a a8 9e 7aa89e2c ebb2 f4c4 fc20 42b17b465601 5056818808807 png w x h bb f",
+      "artist": "Kelela",
+      "album": "",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7a/a8/9e/7aa89e2c-ebb2-f4c4-fc20-42b17b465601/5056818808807.png/2000x2000bb.jpg",
+      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7a/a8/9e/7aa89e2c-ebb2-f4c4-fc20-42b17b465601/5056818808807.png/{w}x{h}bb.{f}",
+      "appleUrl": null,
+      "releaseDate": null,
+      "tracks": [],
+      "weekAdded": "2026-W30",
+      "firstSeen": "2026-07-22",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
       "playlistIndex": 256
@@ -4551,17 +4551,17 @@
       "playlistIndex": 256
     },
     {
-      "key": "gilla band::https is1 ssl mzstatic com image thumb music211 v4 34 f7 42 34f742e2 28a6 9c1a cc6c ab36f9bd6bf4 191402061796 png w x h bb f",
-      "artist": "Gilla Band",
+      "key": "daydream plus::https is1 ssl mzstatic com image thumb music211 v4 94 c5 67 94c56744 69b1 9fa1 6aec 2824be7c6797 66196 jpg w x h bb f",
+      "artist": "Daydream Plus",
       "album": "",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/f7/42/34f742e2-28a6-9c1a-cc6c-ab36f9bd6bf4/191402061796.png/2000x2000bb.jpg",
-      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/f7/42/34f742e2-28a6-9c1a-cc6c-ab36f9bd6bf4/191402061796.png/{w}x{h}bb.{f}",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/c5/67/94c56744-69b1-9fa1-6aec-2824be7c6797/66196.jpg/2000x2000bb.jpg",
+      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/c5/67/94c56744-69b1-9fa1-6aec-2824be7c6797/66196.jpg/{w}x{h}bb.{f}",
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
       "playlistIndex": 257
@@ -4583,22 +4583,6 @@
       "playlistIndex": 257
     },
     {
-      "key": "chanel beads::https is1 ssl mzstatic com image thumb music211 v4 18 35 38 18353889 575d 896a 59a3 2f65e6871c2a 65123 jpg w x h bb f",
-      "artist": "Chanel Beads",
-      "album": "",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/18/35/38/18353889-575d-896a-59a3-2f65e6871c2a/65123.jpg/2000x2000bb.jpg",
-      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/18/35/38/18353889-575d-896a-59a3-2f65e6871c2a/65123.jpg/{w}x{h}bb.{f}",
-      "appleUrl": null,
-      "releaseDate": null,
-      "tracks": [],
-      "weekAdded": "2026-W30",
-      "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
-      "inPlaylist": true,
-      "creditsChecked": false,
-      "playlistIndex": 258
-    },
-    {
       "key": "fox bd::https is1 ssl mzstatic com image thumb music221 v4 79 97 d8 7997d8ad 7be5 7f66 6d69 50e13caaafff 075679580177 jpg w x h bb f",
       "artist": "Fox BD",
       "album": "",
@@ -4615,17 +4599,33 @@
       "playlistIndex": 258
     },
     {
-      "key": "tezzus::https is1 ssl mzstatic com image thumb music221 v4 c1 47 82 c147822a 6264 493c c6dc 017a26fb1e9a 612891048575 jpg w x h bb f",
-      "artist": "Tezzus",
+      "key": "gilla band::https is1 ssl mzstatic com image thumb music211 v4 34 f7 42 34f742e2 28a6 9c1a cc6c ab36f9bd6bf4 191402061796 png w x h bb f",
+      "artist": "Gilla Band",
       "album": "",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c1/47/82/c147822a-6264-493c-c6dc-017a26fb1e9a/612891048575.jpg/2000x2000bb.jpg",
-      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c1/47/82/c147822a-6264-493c-c6dc-017a26fb1e9a/612891048575.jpg/{w}x{h}bb.{f}",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/f7/42/34f742e2-28a6-9c1a-cc6c-ab36f9bd6bf4/191402061796.png/2000x2000bb.jpg",
+      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/f7/42/34f742e2-28a6-9c1a-cc6c-ab36f9bd6bf4/191402061796.png/{w}x{h}bb.{f}",
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
+      "inPlaylist": true,
+      "creditsChecked": false,
+      "playlistIndex": 258
+    },
+    {
+      "key": "chanel beads::https is1 ssl mzstatic com image thumb music211 v4 18 35 38 18353889 575d 896a 59a3 2f65e6871c2a 65123 jpg w x h bb f",
+      "artist": "Chanel Beads",
+      "album": "",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/18/35/38/18353889-575d-896a-59a3-2f65e6871c2a/65123.jpg/2000x2000bb.jpg",
+      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/18/35/38/18353889-575d-896a-59a3-2f65e6871c2a/65123.jpg/{w}x{h}bb.{f}",
+      "appleUrl": null,
+      "releaseDate": null,
+      "tracks": [],
+      "weekAdded": "2026-W30",
+      "firstSeen": "2026-07-22",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
       "playlistIndex": 259
@@ -4663,36 +4663,20 @@
       "playlistIndex": 260
     },
     {
-      "key": "yl papo2oo4::https is1 ssl mzstatic com image thumb music211 v4 9d 07 c0 9d07c018 8efb 9ee4 efb6 c9ddd2bd4014 artwork jpg w x h bb f",
-      "artist": "YL & Papo2oo4",
+      "key": "tezzus::https is1 ssl mzstatic com image thumb music221 v4 c1 47 82 c147822a 6264 493c c6dc 017a26fb1e9a 612891048575 jpg w x h bb f",
+      "artist": "Tezzus",
       "album": "",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/07/c0/9d07c018-8efb-9ee4-efb6-c9ddd2bd4014/artwork.jpg/2000x2000bb.jpg",
-      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/07/c0/9d07c018-8efb-9ee4-efb6-c9ddd2bd4014/artwork.jpg/{w}x{h}bb.{f}",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c1/47/82/c147822a-6264-493c-c6dc-017a26fb1e9a/612891048575.jpg/2000x2000bb.jpg",
+      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c1/47/82/c147822a-6264-493c-c6dc-017a26fb1e9a/612891048575.jpg/{w}x{h}bb.{f}",
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
       "playlistIndex": 260
-    },
-    {
-      "key": "amy rose mills::https is1 ssl mzstatic com image thumb music211 v4 8b c4 c4 8bc4c40f 1e42 6f69 acae 2c097ea0bfee artwork jpg w x h bb f",
-      "artist": "Amy Rose Mills",
-      "album": "",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8b/c4/c4/8bc4c40f-1e42-6f69-acae-2c097ea0bfee/artwork.jpg/2000x2000bb.jpg",
-      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8b/c4/c4/8bc4c40f-1e42-6f69-acae-2c097ea0bfee/artwork.jpg/{w}x{h}bb.{f}",
-      "appleUrl": null,
-      "releaseDate": null,
-      "tracks": [],
-      "weekAdded": "2026-W30",
-      "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
-      "inPlaylist": true,
-      "creditsChecked": false,
-      "playlistIndex": 261
     },
     {
       "key": "ayowitty::https is1 ssl mzstatic com image thumb music211 v4 9a 9c d6 9a9cd68f 1a50 8059 8f1f 6e84cb60437a artwork jpg w x h bb f",
@@ -4709,6 +4693,38 @@
       "inPlaylist": false,
       "creditsChecked": false,
       "playlistIndex": 261
+    },
+    {
+      "key": "yl papo2oo4::https is1 ssl mzstatic com image thumb music211 v4 9d 07 c0 9d07c018 8efb 9ee4 efb6 c9ddd2bd4014 artwork jpg w x h bb f",
+      "artist": "YL & Papo2oo4",
+      "album": "",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/07/c0/9d07c018-8efb-9ee4-efb6-c9ddd2bd4014/artwork.jpg/2000x2000bb.jpg",
+      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/07/c0/9d07c018-8efb-9ee4-efb6-c9ddd2bd4014/artwork.jpg/{w}x{h}bb.{f}",
+      "appleUrl": null,
+      "releaseDate": null,
+      "tracks": [],
+      "weekAdded": "2026-W30",
+      "firstSeen": "2026-07-22",
+      "lastSeen": "2026-11-16",
+      "inPlaylist": true,
+      "creditsChecked": false,
+      "playlistIndex": 261
+    },
+    {
+      "key": "amy rose mills::https is1 ssl mzstatic com image thumb music211 v4 8b c4 c4 8bc4c40f 1e42 6f69 acae 2c097ea0bfee artwork jpg w x h bb f",
+      "artist": "Amy Rose Mills",
+      "album": "",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8b/c4/c4/8bc4c40f-1e42-6f69-acae-2c097ea0bfee/artwork.jpg/2000x2000bb.jpg",
+      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8b/c4/c4/8bc4c40f-1e42-6f69-acae-2c097ea0bfee/artwork.jpg/{w}x{h}bb.{f}",
+      "appleUrl": null,
+      "releaseDate": null,
+      "tracks": [],
+      "weekAdded": "2026-W30",
+      "firstSeen": "2026-07-22",
+      "lastSeen": "2026-11-16",
+      "inPlaylist": true,
+      "creditsChecked": false,
+      "playlistIndex": 262
     },
     {
       "key": "friko::https is1 ssl mzstatic com image thumb music221 v4 bc 03 54 bc0354be 3b7e 69ff 2d35 b98e4926909a 00880882686550 cover jpg w x h bb f",
@@ -4737,23 +4753,7 @@
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
-      "inPlaylist": true,
-      "creditsChecked": false,
-      "playlistIndex": 262
-    },
-    {
-      "key": "olivia rodrigo::https is1 ssl mzstatic com image thumb music221 v4 1d 1b f9 1d1bf9b1 44c6 9a6c 6ffb c158488c06ce 26umgim39303 rgb jpg w x h bb f",
-      "artist": "Olivia Rodrigo",
-      "album": "",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/2000x2000bb.jpg",
-      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/{w}x{h}bb.{f}",
-      "appleUrl": null,
-      "releaseDate": null,
-      "tracks": [],
-      "weekAdded": "2026-W30",
-      "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
       "playlistIndex": 263
@@ -4775,17 +4775,17 @@
       "playlistIndex": 263
     },
     {
-      "key": "aja monet::https is1 ssl mzstatic com image thumb music211 v4 75 c2 48 75c24802 2830 2a49 c008 dd52bc20bc8b 61659 jpg w x h bb f",
-      "artist": "aja monet",
+      "key": "olivia rodrigo::https is1 ssl mzstatic com image thumb music221 v4 1d 1b f9 1d1bf9b1 44c6 9a6c 6ffb c158488c06ce 26umgim39303 rgb jpg w x h bb f",
+      "artist": "Olivia Rodrigo",
       "album": "",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/75/c2/48/75c24802-2830-2a49-c008-dd52bc20bc8b/61659.jpg/2000x2000bb.jpg",
-      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/75/c2/48/75c24802-2830-2a49-c008-dd52bc20bc8b/61659.jpg/{w}x{h}bb.{f}",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/2000x2000bb.jpg",
+      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/{w}x{h}bb.{f}",
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
       "playlistIndex": 264
@@ -4807,17 +4807,17 @@
       "playlistIndex": 264
     },
     {
-      "key": "mary in the junkyard::https is1 ssl mzstatic com image thumb music221 v4 12 6c 7a 126c7a2d 0863 bf10 c0dd 3d08d1f842b0 823375114918 cover jpg w x h bb f",
-      "artist": "mary in the junkyard",
+      "key": "aja monet::https is1 ssl mzstatic com image thumb music211 v4 75 c2 48 75c24802 2830 2a49 c008 dd52bc20bc8b 61659 jpg w x h bb f",
+      "artist": "aja monet",
       "album": "",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/12/6c/7a/126c7a2d-0863-bf10-c0dd-3d08d1f842b0/823375114918_Cover.jpg/2000x2000bb.jpg",
-      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/12/6c/7a/126c7a2d-0863-bf10-c0dd-3d08d1f842b0/823375114918_Cover.jpg/{w}x{h}bb.{f}",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/75/c2/48/75c24802-2830-2a49-c008-dd52bc20bc8b/61659.jpg/2000x2000bb.jpg",
+      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/75/c2/48/75c24802-2830-2a49-c008-dd52bc20bc8b/61659.jpg/{w}x{h}bb.{f}",
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
       "playlistIndex": 265
@@ -4839,22 +4839,6 @@
       "playlistIndex": 265
     },
     {
-      "key": "dj koze::https is1 ssl mzstatic com image thumb music211 v4 2b f0 4c 2bf04c48 53f4 a2b2 7dcd e2d273940dbf cover jpg w x h bb f",
-      "artist": "DJ Koze",
-      "album": "",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/f0/4c/2bf04c48-53f4-a2b2-7dcd-e2d273940dbf/cover.jpg/2000x2000bb.jpg",
-      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/f0/4c/2bf04c48-53f4-a2b2-7dcd-e2d273940dbf/cover.jpg/{w}x{h}bb.{f}",
-      "appleUrl": null,
-      "releaseDate": null,
-      "tracks": [],
-      "weekAdded": "2026-W30",
-      "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
-      "inPlaylist": true,
-      "creditsChecked": false,
-      "playlistIndex": 266
-    },
-    {
       "key": "jwords::https is1 ssl mzstatic com image thumb music221 v4 37 fd 1c 37fd1c6f f848 aeee 6a76 b65c584d1b04 840200576673 cover jpg w x h bb f",
       "artist": "JWords",
       "album": "",
@@ -4867,6 +4851,22 @@
       "firstSeen": "2026-07-22",
       "lastSeen": "2026-09-14",
       "inPlaylist": false,
+      "creditsChecked": false,
+      "playlistIndex": 266
+    },
+    {
+      "key": "mary in the junkyard::https is1 ssl mzstatic com image thumb music221 v4 12 6c 7a 126c7a2d 0863 bf10 c0dd 3d08d1f842b0 823375114918 cover jpg w x h bb f",
+      "artist": "mary in the junkyard",
+      "album": "",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/12/6c/7a/126c7a2d-0863-bf10-c0dd-3d08d1f842b0/823375114918_Cover.jpg/2000x2000bb.jpg",
+      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/12/6c/7a/126c7a2d-0863-bf10-c0dd-3d08d1f842b0/823375114918_Cover.jpg/{w}x{h}bb.{f}",
+      "appleUrl": null,
+      "releaseDate": null,
+      "tracks": [],
+      "weekAdded": "2026-W30",
+      "firstSeen": "2026-07-22",
+      "lastSeen": "2026-11-16",
+      "inPlaylist": true,
       "creditsChecked": false,
       "playlistIndex": 266
     },
@@ -4903,17 +4903,17 @@
       "playlistIndex": 267
     },
     {
-      "key": "kaitlyn aurelia smith::https is1 ssl mzstatic com image thumb music211 v4 5e d7 85 5ed78531 b57c 8fbc 8f41 dcfb12e16849 3663729437259 cover jpg w x h bb f",
-      "artist": "Kaitlyn Aurelia Smith",
+      "key": "dj koze::https is1 ssl mzstatic com image thumb music211 v4 2b f0 4c 2bf04c48 53f4 a2b2 7dcd e2d273940dbf cover jpg w x h bb f",
+      "artist": "DJ Koze",
       "album": "",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5e/d7/85/5ed78531-b57c-8fbc-8f41-dcfb12e16849/3663729437259_cover.jpg/2000x2000bb.jpg",
-      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5e/d7/85/5ed78531-b57c-8fbc-8f41-dcfb12e16849/3663729437259_cover.jpg/{w}x{h}bb.{f}",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/f0/4c/2bf04c48-53f4-a2b2-7dcd-e2d273940dbf/cover.jpg/2000x2000bb.jpg",
+      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/f0/4c/2bf04c48-53f4-a2b2-7dcd-e2d273940dbf/cover.jpg/{w}x{h}bb.{f}",
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
       "playlistIndex": 267
@@ -4967,17 +4967,17 @@
       "playlistIndex": 268
     },
     {
-      "key": "liim::https is1 ssl mzstatic com image thumb music221 v4 0a 05 5b 0a055b9f 3d1f ea05 1098 724cb5693d56 823191227441 cover jpg w x h bb f",
-      "artist": "Liim",
+      "key": "kaitlyn aurelia smith::https is1 ssl mzstatic com image thumb music211 v4 5e d7 85 5ed78531 b57c 8fbc 8f41 dcfb12e16849 3663729437259 cover jpg w x h bb f",
+      "artist": "Kaitlyn Aurelia Smith",
       "album": "",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0a/05/5b/0a055b9f-3d1f-ea05-1098-724cb5693d56/823191227441_cover.jpg/2000x2000bb.jpg",
-      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0a/05/5b/0a055b9f-3d1f-ea05-1098-724cb5693d56/823191227441_cover.jpg/{w}x{h}bb.{f}",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5e/d7/85/5ed78531-b57c-8fbc-8f41-dcfb12e16849/3663729437259_cover.jpg/2000x2000bb.jpg",
+      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5e/d7/85/5ed78531-b57c-8fbc-8f41-dcfb12e16849/3663729437259_cover.jpg/{w}x{h}bb.{f}",
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
       "playlistIndex": 268
@@ -5015,17 +5015,17 @@
       "playlistIndex": 269
     },
     {
-      "key": "veeze::https is1 ssl mzstatic com image thumb music221 v4 53 88 ed 5388ed68 14ce 7626 220f 60284150a428 093624818830 jpg w x h bb f",
-      "artist": "Veeze",
+      "key": "liim::https is1 ssl mzstatic com image thumb music221 v4 0a 05 5b 0a055b9f 3d1f ea05 1098 724cb5693d56 823191227441 cover jpg w x h bb f",
+      "artist": "Liim",
       "album": "",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/53/88/ed/5388ed68-14ce-7626-220f-60284150a428/093624818830.jpg/2000x2000bb.jpg",
-      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/53/88/ed/5388ed68-14ce-7626-220f-60284150a428/093624818830.jpg/{w}x{h}bb.{f}",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0a/05/5b/0a055b9f-3d1f-ea05-1098-724cb5693d56/823191227441_cover.jpg/2000x2000bb.jpg",
+      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0a/05/5b/0a055b9f-3d1f-ea05-1098-724cb5693d56/823191227441_cover.jpg/{w}x{h}bb.{f}",
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
       "playlistIndex": 269
@@ -5063,20 +5063,20 @@
       "playlistIndex": 270
     },
     {
-      "key": "bladee::https is1 ssl mzstatic com image thumb music211 v4 4b e0 55 4be05551 0994 1f49 498a d62aa8eaca37 820233392525 jpg w x h bb f",
-      "artist": "Bladee",
+      "key": "veeze::https is1 ssl mzstatic com image thumb music221 v4 53 88 ed 5388ed68 14ce 7626 220f 60284150a428 093624818830 jpg w x h bb f",
+      "artist": "Veeze",
       "album": "",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4b/e0/55/4be05551-0994-1f49-498a-d62aa8eaca37/820233392525.jpg/2000x2000bb.jpg",
-      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4b/e0/55/4be05551-0994-1f49-498a-d62aa8eaca37/820233392525.jpg/{w}x{h}bb.{f}",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/53/88/ed/5388ed68-14ce-7626-220f-60284150a428/093624818830.jpg/2000x2000bb.jpg",
+      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/53/88/ed/5388ed68-14ce-7626-220f-60284150a428/093624818830.jpg/{w}x{h}bb.{f}",
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
-      "playlistIndex": 271
+      "playlistIndex": 270
     },
     {
       "key": "hi keshawn::https is1 ssl mzstatic com image thumb music211 v4 de 86 0c de860ca2 bc40 f408 20f1 22b24d310fed artwork jpg w x h bb f",
@@ -5143,17 +5143,17 @@
       "playlistIndex": 272
     },
     {
-      "key": "biita houdei::https is1 ssl mzstatic com image thumb music211 v4 87 c8 f4 87c8f493 9cd2 e74e b69d 11aa18ad1658 64994 jpg w x h bb f",
-      "artist": "Biita Houdei",
+      "key": "bladee::https is1 ssl mzstatic com image thumb music211 v4 4b e0 55 4be05551 0994 1f49 498a d62aa8eaca37 820233392525 jpg w x h bb f",
+      "artist": "Bladee",
       "album": "",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/87/c8/f4/87c8f493-9cd2-e74e-b69d-11aa18ad1658/64994.jpg/2000x2000bb.jpg",
-      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/87/c8/f4/87c8f493-9cd2-e74e-b69d-11aa18ad1658/64994.jpg/{w}x{h}bb.{f}",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4b/e0/55/4be05551-0994-1f49-498a-d62aa8eaca37/820233392525.jpg/2000x2000bb.jpg",
+      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4b/e0/55/4be05551-0994-1f49-498a-d62aa8eaca37/820233392525.jpg/{w}x{h}bb.{f}",
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
       "playlistIndex": 272
@@ -5239,17 +5239,17 @@
       "playlistIndex": 273
     },
     {
-      "key": "bill orcutt mabe fratti::https is1 ssl mzstatic com image thumb music221 v4 4f 38 9e 4f389e48 f396 6e2c bf66 3e636ab39d8c 820200544025 jpg w x h bb f",
-      "artist": "Bill Orcutt & Mabe Fratti",
+      "key": "biita houdei::https is1 ssl mzstatic com image thumb music211 v4 87 c8 f4 87c8f493 9cd2 e74e b69d 11aa18ad1658 64994 jpg w x h bb f",
+      "artist": "Biita Houdei",
       "album": "",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4f/38/9e/4f389e48-f396-6e2c-bf66-3e636ab39d8c/820200544025.jpg/2000x2000bb.jpg",
-      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4f/38/9e/4f389e48-f396-6e2c-bf66-3e636ab39d8c/820200544025.jpg/{w}x{h}bb.{f}",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/87/c8/f4/87c8f493-9cd2-e74e-b69d-11aa18ad1658/64994.jpg/2000x2000bb.jpg",
+      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/87/c8/f4/87c8f493-9cd2-e74e-b69d-11aa18ad1658/64994.jpg/{w}x{h}bb.{f}",
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
       "playlistIndex": 273
@@ -5319,6 +5319,22 @@
       "playlistIndex": 274
     },
     {
+      "key": "bill orcutt mabe fratti::https is1 ssl mzstatic com image thumb music221 v4 4f 38 9e 4f389e48 f396 6e2c bf66 3e636ab39d8c 820200544025 jpg w x h bb f",
+      "artist": "Bill Orcutt & Mabe Fratti",
+      "album": "",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4f/38/9e/4f389e48-f396-6e2c-bf66-3e636ab39d8c/820200544025.jpg/2000x2000bb.jpg",
+      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4f/38/9e/4f389e48-f396-6e2c-bf66-3e636ab39d8c/820200544025.jpg/{w}x{h}bb.{f}",
+      "appleUrl": null,
+      "releaseDate": null,
+      "tracks": [],
+      "weekAdded": "2026-W30",
+      "firstSeen": "2026-07-22",
+      "lastSeen": "2026-11-16",
+      "inPlaylist": true,
+      "creditsChecked": false,
+      "playlistIndex": 274
+    },
+    {
       "key": "frog::https is1 ssl mzstatic com image thumb music211 v4 38 53 d4 3853d4e4 5ec2 8862 8193 482fc5cc19ff artwork jpg w x h bb f",
       "artist": "Frog",
       "album": "",
@@ -5331,22 +5347,6 @@
       "firstSeen": "2026-07-22",
       "lastSeen": "2026-10-12",
       "inPlaylist": false,
-      "creditsChecked": false,
-      "playlistIndex": 274
-    },
-    {
-      "key": "marisa anderson::https is1 ssl mzstatic com image thumb music221 v4 63 eb 43 63eb439d 554f f4f0 f805 c0bc095a8639 790377065466 png w x h bb f",
-      "artist": "Marisa Anderson",
-      "album": "",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/63/eb/43/63eb439d-554f-f4f0-f805-c0bc095a8639/790377065466.png/2000x2000bb.jpg",
-      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/63/eb/43/63eb439d-554f-f4f0-f805-c0bc095a8639/790377065466.png/{w}x{h}bb.{f}",
-      "appleUrl": null,
-      "releaseDate": null,
-      "tracks": [],
-      "weekAdded": "2026-W30",
-      "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
-      "inPlaylist": true,
       "creditsChecked": false,
       "playlistIndex": 274
     },
@@ -5479,6 +5479,22 @@
       "playlistIndex": 275
     },
     {
+      "key": "marisa anderson::https is1 ssl mzstatic com image thumb music221 v4 63 eb 43 63eb439d 554f f4f0 f805 c0bc095a8639 790377065466 png w x h bb f",
+      "artist": "Marisa Anderson",
+      "album": "",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/63/eb/43/63eb439d-554f-f4f0-f805-c0bc095a8639/790377065466.png/2000x2000bb.jpg",
+      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/63/eb/43/63eb439d-554f-f4f0-f805-c0bc095a8639/790377065466.png/{w}x{h}bb.{f}",
+      "appleUrl": null,
+      "releaseDate": null,
+      "tracks": [],
+      "weekAdded": "2026-W30",
+      "firstSeen": "2026-07-22",
+      "lastSeen": "2026-11-16",
+      "inPlaylist": true,
+      "creditsChecked": false,
+      "playlistIndex": 275
+    },
+    {
       "key": "martyn::https is1 ssl mzstatic com image thumb music221 v4 f0 23 a2 f023a26a 5ba5 5d72 f1c6 3da26b9eade9 5063817009593 cover jpg w x h bb f",
       "artist": "Martyn",
       "album": "",
@@ -5509,22 +5525,6 @@
       "inPlaylist": false,
       "creditsChecked": false,
       "playlistIndex": 275
-    },
-    {
-      "key": "bladee::https is1 ssl mzstatic com image thumb music211 v4 69 13 f7 6913f76d f000 9c0a ad5f 7b32cef82701 820233303200 jpg w x h bb f",
-      "artist": "Bladee",
-      "album": "",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/13/f7/6913f76d-f000-9c0a-ad5f-7b32cef82701/820233303200.jpg/2000x2000bb.jpg",
-      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/13/f7/6913f76d-f000-9c0a-ad5f-7b32cef82701/820233303200.jpg/{w}x{h}bb.{f}",
-      "appleUrl": null,
-      "releaseDate": null,
-      "tracks": [],
-      "weekAdded": "2026-W30",
-      "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
-      "inPlaylist": true,
-      "creditsChecked": false,
-      "playlistIndex": 276
     },
     {
       "key": "brat star::https is1 ssl mzstatic com image thumb music221 v4 90 87 c8 9087c861 ba24 6c61 dd41 14bdfa66ac22 artwork jpg w x h bb f",
@@ -5671,6 +5671,22 @@
       "playlistIndex": 277
     },
     {
+      "key": "bladee::https is1 ssl mzstatic com image thumb music211 v4 69 13 f7 6913f76d f000 9c0a ad5f 7b32cef82701 820233303200 jpg w x h bb f",
+      "artist": "Bladee",
+      "album": "",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/13/f7/6913f76d-f000-9c0a-ad5f-7b32cef82701/820233303200.jpg/2000x2000bb.jpg",
+      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/13/f7/6913f76d-f000-9c0a-ad5f-7b32cef82701/820233303200.jpg/{w}x{h}bb.{f}",
+      "appleUrl": null,
+      "releaseDate": null,
+      "tracks": [],
+      "weekAdded": "2026-W30",
+      "firstSeen": "2026-07-22",
+      "lastSeen": "2026-11-16",
+      "inPlaylist": true,
+      "creditsChecked": false,
+      "playlistIndex": 277
+    },
+    {
       "key": "greg mendez::https is1 ssl mzstatic com image thumb music221 v4 75 a3 41 75a341d8 5858 c0ea 3bd9 1a3f02bc202f 63326 jpg w x h bb f",
       "artist": "Greg Mendez",
       "album": "",
@@ -5699,22 +5715,6 @@
       "firstSeen": "2026-07-22",
       "lastSeen": "2026-10-19",
       "inPlaylist": false,
-      "creditsChecked": false,
-      "playlistIndex": 277
-    },
-    {
-      "key": "jorja smith::https is1 ssl mzstatic com image thumb music211 v4 dc cf 11 dccf1138 2cdb de58 14c2 1ef41f6a23f5 820233148306 jpg w x h bb f",
-      "artist": "Jorja Smith",
-      "album": "",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/cf/11/dccf1138-2cdb-de58-14c2-1ef41f6a23f5/820233148306.jpg/2000x2000bb.jpg",
-      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/cf/11/dccf1138-2cdb-de58-14c2-1ef41f6a23f5/820233148306.jpg/{w}x{h}bb.{f}",
-      "appleUrl": null,
-      "releaseDate": null,
-      "tracks": [],
-      "weekAdded": "2026-W30",
-      "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
-      "inPlaylist": true,
       "creditsChecked": false,
       "playlistIndex": 277
     },
@@ -5895,17 +5895,17 @@
       "playlistIndex": 278
     },
     {
-      "key": "michi mndsgn::https is1 ssl mzstatic com image thumb music211 v4 dc c0 20 dcc0202d 26c8 258a f2f2 19d314519ece 2229 jpg w x h bb f",
-      "artist": "Michi & Mndsgn",
+      "key": "jorja smith::https is1 ssl mzstatic com image thumb music211 v4 dc cf 11 dccf1138 2cdb de58 14c2 1ef41f6a23f5 820233148306 jpg w x h bb f",
+      "artist": "Jorja Smith",
       "album": "",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/c0/20/dcc0202d-26c8-258a-f2f2-19d314519ece/2229.jpg/2000x2000bb.jpg",
-      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/c0/20/dcc0202d-26c8-258a-f2f2-19d314519ece/2229.jpg/{w}x{h}bb.{f}",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/cf/11/dccf1138-2cdb-de58-14c2-1ef41f6a23f5/820233148306.jpg/2000x2000bb.jpg",
+      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/cf/11/dccf1138-2cdb-de58-14c2-1ef41f6a23f5/820233148306.jpg/{w}x{h}bb.{f}",
       "appleUrl": null,
       "releaseDate": null,
       "tracks": [],
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
+      "lastSeen": "2026-11-16",
       "inPlaylist": true,
       "creditsChecked": false,
       "playlistIndex": 278
@@ -6055,22 +6055,6 @@
       "playlistIndex": 279
     },
     {
-      "key": "belle shea::https is1 ssl mzstatic com image thumb music221 v4 97 08 af 9708af0f a8e6 a656 96e2 243ddbb63bd1 artwork jpg w x h bb f",
-      "artist": "Belle Shea",
-      "album": "",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/97/08/af/9708af0f-a8e6-a656-96e2-243ddbb63bd1/artwork.jpg/2000x2000bb.jpg",
-      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/97/08/af/9708af0f-a8e6-a656-96e2-243ddbb63bd1/artwork.jpg/{w}x{h}bb.{f}",
-      "appleUrl": null,
-      "releaseDate": null,
-      "tracks": [],
-      "weekAdded": "2026-W30",
-      "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
-      "inPlaylist": true,
-      "creditsChecked": false,
-      "playlistIndex": 279
-    },
-    {
       "key": "daniela lalita mura masa::https is1 ssl mzstatic com image thumb music221 v4 5f ee 2a 5fee2a1d 7753 7e56 3a88 44fc0b16fb2e 820233078771 jpg w x h bb f",
       "artist": "Daniela Lalita & Mura Masa",
       "album": "",
@@ -6131,6 +6115,22 @@
       "firstSeen": "2026-07-22",
       "lastSeen": "2026-08-03",
       "inPlaylist": false,
+      "creditsChecked": false,
+      "playlistIndex": 279
+    },
+    {
+      "key": "michi mndsgn::https is1 ssl mzstatic com image thumb music211 v4 dc c0 20 dcc0202d 26c8 258a f2f2 19d314519ece 2229 jpg w x h bb f",
+      "artist": "Michi & Mndsgn",
+      "album": "",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/c0/20/dcc0202d-26c8-258a-f2f2-19d314519ece/2229.jpg/2000x2000bb.jpg",
+      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/c0/20/dcc0202d-26c8-258a-f2f2-19d314519ece/2229.jpg/{w}x{h}bb.{f}",
+      "appleUrl": null,
+      "releaseDate": null,
+      "tracks": [],
+      "weekAdded": "2026-W30",
+      "firstSeen": "2026-07-22",
+      "lastSeen": "2026-11-16",
+      "inPlaylist": true,
       "creditsChecked": false,
       "playlistIndex": 279
     },
@@ -6243,6 +6243,22 @@
       "firstSeen": "2026-07-22",
       "lastSeen": "2026-09-28",
       "inPlaylist": false,
+      "creditsChecked": false,
+      "playlistIndex": 280
+    },
+    {
+      "key": "belle shea::https is1 ssl mzstatic com image thumb music221 v4 97 08 af 9708af0f a8e6 a656 96e2 243ddbb63bd1 artwork jpg w x h bb f",
+      "artist": "Belle Shea",
+      "album": "",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/97/08/af/9708af0f-a8e6-a656-96e2-243ddbb63bd1/artwork.jpg/2000x2000bb.jpg",
+      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/97/08/af/9708af0f-a8e6-a656-96e2-243ddbb63bd1/artwork.jpg/{w}x{h}bb.{f}",
+      "appleUrl": null,
+      "releaseDate": null,
+      "tracks": [],
+      "weekAdded": "2026-W30",
+      "firstSeen": "2026-07-22",
+      "lastSeen": "2026-11-16",
+      "inPlaylist": true,
       "creditsChecked": false,
       "playlistIndex": 280
     },
@@ -6567,22 +6583,6 @@
       "playlistIndex": 281
     },
     {
-      "key": "sergeant::https is1 ssl mzstatic com image thumb music221 v4 17 03 a0 1703a03e 98ef 0ca9 27bf b51497c75092 820200485526 jpg w x h bb f",
-      "artist": "Sergeant",
-      "album": "",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/03/a0/1703a03e-98ef-0ca9-27bf-b51497c75092/820200485526.jpg/2000x2000bb.jpg",
-      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/03/a0/1703a03e-98ef-0ca9-27bf-b51497c75092/820200485526.jpg/{w}x{h}bb.{f}",
-      "appleUrl": null,
-      "releaseDate": null,
-      "tracks": [],
-      "weekAdded": "2026-W30",
-      "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
-      "inPlaylist": true,
-      "creditsChecked": false,
-      "playlistIndex": 281
-    },
-    {
       "key": "sinn6r::https is1 ssl mzstatic com image thumb music211 v4 36 2e 91 362e91af 2bef f611 135a c5a5bb12f694 810129962369 jpg w x h bb f",
       "artist": "SINN6R",
       "album": "",
@@ -6711,22 +6711,6 @@
       "playlistIndex": 282
     },
     {
-      "key": "jawdropped::https is1 ssl mzstatic com image thumb music211 v4 2a 62 66 2a62663d fc54 5bf1 f415 6bc265bfe719 8721466550527 png w x h bb f",
-      "artist": "Jawdropped",
-      "album": "",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2a/62/66/2a62663d-fc54-5bf1-f415-6bc265bfe719/8721466550527.png/2000x2000bb.jpg",
-      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2a/62/66/2a62663d-fc54-5bf1-f415-6bc265bfe719/8721466550527.png/{w}x{h}bb.{f}",
-      "appleUrl": null,
-      "releaseDate": null,
-      "tracks": [],
-      "weekAdded": "2026-W30",
-      "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
-      "inPlaylist": true,
-      "creditsChecked": false,
-      "playlistIndex": 282
-    },
-    {
       "key": "jill scott::https is1 ssl mzstatic com image thumb music221 v4 c0 b0 a7 c0b0a7f1 ff3f 5f5d f886 1a5aee7a2a90 199806706664 jpg w x h bb f",
       "artist": "Jill Scott",
       "album": "",
@@ -6803,6 +6787,22 @@
       "firstSeen": "2026-07-22",
       "lastSeen": "2026-09-14",
       "inPlaylist": false,
+      "creditsChecked": false,
+      "playlistIndex": 282
+    },
+    {
+      "key": "sergeant::https is1 ssl mzstatic com image thumb music221 v4 17 03 a0 1703a03e 98ef 0ca9 27bf b51497c75092 820200485526 jpg w x h bb f",
+      "artist": "Sergeant",
+      "album": "",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/03/a0/1703a03e-98ef-0ca9-27bf-b51497c75092/820200485526.jpg/2000x2000bb.jpg",
+      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/03/a0/1703a03e-98ef-0ca9-27bf-b51497c75092/820200485526.jpg/{w}x{h}bb.{f}",
+      "appleUrl": null,
+      "releaseDate": null,
+      "tracks": [],
+      "weekAdded": "2026-W30",
+      "firstSeen": "2026-07-22",
+      "lastSeen": "2026-11-16",
+      "inPlaylist": true,
       "creditsChecked": false,
       "playlistIndex": 282
     },
@@ -6915,6 +6915,22 @@
       "firstSeen": "2026-07-22",
       "lastSeen": "2026-09-28",
       "inPlaylist": false,
+      "creditsChecked": false,
+      "playlistIndex": 283
+    },
+    {
+      "key": "jawdropped::https is1 ssl mzstatic com image thumb music211 v4 2a 62 66 2a62663d fc54 5bf1 f415 6bc265bfe719 8721466550527 png w x h bb f",
+      "artist": "Jawdropped",
+      "album": "",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2a/62/66/2a62663d-fc54-5bf1-f415-6bc265bfe719/8721466550527.png/2000x2000bb.jpg",
+      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2a/62/66/2a62663d-fc54-5bf1-f415-6bc265bfe719/8721466550527.png/{w}x{h}bb.{f}",
+      "appleUrl": null,
+      "releaseDate": null,
+      "tracks": [],
+      "weekAdded": "2026-W30",
+      "firstSeen": "2026-07-22",
+      "lastSeen": "2026-11-16",
+      "inPlaylist": true,
       "creditsChecked": false,
       "playlistIndex": 283
     },
@@ -7047,22 +7063,6 @@
       "playlistIndex": 283
     },
     {
-      "key": "sexy lazer::https is1 ssl mzstatic com image thumb music211 v4 6d 3b 09 6d3b094b 34b1 47b1 5422 2056fe7cf23d 198704959844 cover jpg w x h bb f",
-      "artist": "Sexy Lazer",
-      "album": "",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6d/3b/09/6d3b094b-34b1-47b1-5422-2056fe7cf23d/198704959844_Cover.jpg/2000x2000bb.jpg",
-      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6d/3b/09/6d3b094b-34b1-47b1-5422-2056fe7cf23d/198704959844_Cover.jpg/{w}x{h}bb.{f}",
-      "appleUrl": null,
-      "releaseDate": null,
-      "tracks": [],
-      "weekAdded": "2026-W30",
-      "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
-      "inPlaylist": true,
-      "creditsChecked": false,
-      "playlistIndex": 283
-    },
-    {
       "key": "thaiboy digital swedm::https is1 ssl mzstatic com image thumb music221 v4 e1 f3 49 e1f34952 74ac d69e f364 9859cee06c46 4426 jpg w x h bb f",
       "artist": "Thaiboy Digital & swedm®",
       "album": "",
@@ -7091,22 +7091,6 @@
       "firstSeen": "2026-07-22",
       "lastSeen": "2026-09-07",
       "inPlaylist": false,
-      "creditsChecked": false,
-      "playlistIndex": 284
-    },
-    {
-      "key": "dj plead::https is1 ssl mzstatic com image thumb music221 v4 62 0b ac 620bacdd a46b 1cd5 a76d 203e79550bb9 65598 jpg w x h bb f",
-      "artist": "DJ Plead",
-      "album": "",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/62/0b/ac/620bacdd-a46b-1cd5-a76d-203e79550bb9/65598.jpg/2000x2000bb.jpg",
-      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/62/0b/ac/620bacdd-a46b-1cd5-a76d-203e79550bb9/65598.jpg/{w}x{h}bb.{f}",
-      "appleUrl": null,
-      "releaseDate": null,
-      "tracks": [],
-      "weekAdded": "2026-W30",
-      "firstSeen": "2026-07-22",
-      "lastSeen": "2026-11-09",
-      "inPlaylist": true,
       "creditsChecked": false,
       "playlistIndex": 284
     },
@@ -7155,6 +7139,22 @@
       "firstSeen": "2026-07-22",
       "lastSeen": "2026-09-28",
       "inPlaylist": false,
+      "creditsChecked": false,
+      "playlistIndex": 284
+    },
+    {
+      "key": "sexy lazer::https is1 ssl mzstatic com image thumb music211 v4 6d 3b 09 6d3b094b 34b1 47b1 5422 2056fe7cf23d 198704959844 cover jpg w x h bb f",
+      "artist": "Sexy Lazer",
+      "album": "",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6d/3b/09/6d3b094b-34b1-47b1-5422-2056fe7cf23d/198704959844_Cover.jpg/2000x2000bb.jpg",
+      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6d/3b/09/6d3b094b-34b1-47b1-5422-2056fe7cf23d/198704959844_Cover.jpg/{w}x{h}bb.{f}",
+      "appleUrl": null,
+      "releaseDate": null,
+      "tracks": [],
+      "weekAdded": "2026-W30",
+      "firstSeen": "2026-07-22",
+      "lastSeen": "2026-11-16",
+      "inPlaylist": true,
       "creditsChecked": false,
       "playlistIndex": 284
     },
@@ -7255,6 +7255,22 @@
       "playlistIndex": 284
     },
     {
+      "key": "dj plead::https is1 ssl mzstatic com image thumb music221 v4 62 0b ac 620bacdd a46b 1cd5 a76d 203e79550bb9 65598 jpg w x h bb f",
+      "artist": "DJ Plead",
+      "album": "",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/62/0b/ac/620bacdd-a46b-1cd5-a76d-203e79550bb9/65598.jpg/2000x2000bb.jpg",
+      "coverTemplate": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/62/0b/ac/620bacdd-a46b-1cd5-a76d-203e79550bb9/65598.jpg/{w}x{h}bb.{f}",
+      "appleUrl": null,
+      "releaseDate": null,
+      "tracks": [],
+      "weekAdded": "2026-W30",
+      "firstSeen": "2026-07-22",
+      "lastSeen": "2026-11-16",
+      "inPlaylist": true,
+      "creditsChecked": false,
+      "playlistIndex": 285
+    },
+    {
       "key": "fever ray::https is1 ssl mzstatic com image thumb music211 v4 af 77 42 af7742b8 9820 a45e 2990 0eeb38d58868 794043227523 jpg w x h bb f",
       "artist": "Fever Ray",
       "album": "",
@@ -7282,7 +7298,7 @@
       "weekAdded": "2026-W30",
       "firstSeen": "2026-07-22",
       "lastSeen": "2026-11-09",
-      "inPlaylist": true,
+      "inPlaylist": false,
       "creditsChecked": false,
       "playlistIndex": 285
     },
